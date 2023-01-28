@@ -1,0 +1,25 @@
+<?php return array (
+  'parameters' => 
+  array (
+    'database_host' => 'localhost',
+    'database_port' => '3306',
+    'database_name' => 'mpshop_mpshop',
+    'database_user' => 'mpshop_admin',
+    'database_password' => 'WAze@1984',
+    'database_prefix' => 'ps_',
+    'database_engine' => 'InnoDB',
+    'mailer_transport' => 'smtp',
+    'mailer_host' => '127.0.0.1',
+    'mailer_user' => NULL,
+    'mailer_password' => NULL,
+    'secret' => 'cDZLqb4QOvTIWGtZ4ysmZ0NPVrms7BDQWSbesHazRHRWkKQQDXfbg5ZNGe4Cfgnx',
+    'ps_caching' => 'CacheMemcached',
+    'ps_cache_enable' => true,
+    'ps_creation_date' => '2021-12-29',
+    'locale' => 'fr-FR',
+    'use_debug_toolbar' => true,
+    'cookie_key' => 'FaOWhJSGA6w9Bi87bOGkJwCt4U38YTVzTUSmrC8uUOGxvFg1Tg37FPiJtdtSLLZX',
+    'cookie_iv' => 'chyO1O6UDVtShWcZ9y1XfOeB9chGWcjy',
+    'new_cookie_key' => 'def000008eae415a1dceaf76be861267934818a7990f64cb3802f4ebda4f26d864ffd48a20f469807a5ae216a14fc86e1d381cd415f9701298223c4fba8a065420614153',
+  ),
+);

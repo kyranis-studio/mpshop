@@ -1,0 +1,418 @@
+    <div class="is_17 products  hc-products--5 active" data-id-parent="-5"  data-id-feature="no">
+        <div data-number-product-desktop ="6"
+             data-number-product-tablet ="1"
+             data-number-product-mobie ="1"
+             class="hc-products-list  has-products" data-rand-seed="0" data-index="0">
+              
+    <div class="product-item">
+        <article class="product-miniature js-product-miniature" data-id-product="3743" data-id-product-attribute="0" itemscope itemtype="http://schema.org/Product">
+			<div class="thumbnail-container">
+                <div class="product-image-block">
+                    
+                        <a href="https://mpshop.tn/hachoir-/3743-hommer-melangeur-et-hachoir-2-en-1-de-250w.html" class="thumbnail product-thumbnail">
+                            <img src="https://mpshop.tn/modules/ets_superspeed/views/img/preloading.png" class="lazyload" data-src="https://mpshop.tn/8773-home_default/hommer-melangeur-et-hachoir-2-en-1-de-250w.webp"
+                                alt = "Mélangeur et hachoir 2 en 1..."
+                                data-full-size-image-url = "https://mpshop.tn/8773-large_default/hommer-melangeur-et-hachoir-2-en-1-de-250w.webp" /><span class="ets_loading">
+    <div class="spinner_1"></div>
+</span>
+                        </a>
+                    
+                    
+                        <ul class="product-flags">
+                                                            <li class="product-flag on-sale">** offre **</li>
+                                                                <li class="product-flag discount">-20,000 DT</li>
+                                                        </ul>
+                    
+                    <div class="highlighted-informations no-variants hidden-sm-down">
+                        
+                            <a class="quick-view" href="#" data-link-action="quickview">
+                                <i class="material-icons search">&#xE8B6;</i> Aperçu rapide
+                            </a>
+                        
+                        
+                                                    
+                    </div>
+                </div>
+                <div class="product-description">
+                    
+                        <h1 class="h3 product-title" itemprop="name"><a href="https://mpshop.tn/hachoir-/3743-hommer-melangeur-et-hachoir-2-en-1-de-250w.html">Mélangeur et hachoir 2 en 1 de - 1L - 250w</a></h1>
+                        
+                        
+                    
+                                                    <div class="product-price-and-shipping">
+                                                                    
+
+                                    <span class="sr-only">Prix de base</span>
+                                    <span class="regular-price">85,000 DT</span>
+                                
+                                
+
+                                <span class="sr-only">Prix</span>
+                                <span itemprop="price" class="price">65,000 DT</span>
+
+                                
+
+                                
+                            </div>
+                                            
+                    <div class="add">
+                        <form action="https://mpshop.tn/panier" class="cart-form-url" method="post">
+                            <input type="hidden" name="token" class="cart-form-token" value="9ac525337ac6786a00aad956c5877cf3">
+                            <input type="hidden" value="3743" name="id_product">
+                            <input type="hidden" class="input-group form-control" value="1" name="qty" />
+                            <button data-button-action="add-to-cart" class="btn btn-primary" >
+															Ajouter au panier
+							  							</button>
+                        </form>
+                    </div>
+                    
+                        
+                    
+                </div>
+            </div>
+        </article>
+    </div>
+
+              
+    <div class="product-item">
+        <article class="product-miniature js-product-miniature" data-id-product="2229" data-id-product-attribute="0" itemscope itemtype="http://schema.org/Product">
+			<div class="thumbnail-container">
+                <div class="product-image-block">
+                    
+                        <a href="https://mpshop.tn/luminaire-eclairage/2229-lampe-economique-led-7w.html" class="thumbnail product-thumbnail">
+                            <img src="https://mpshop.tn/modules/ets_superspeed/views/img/preloading.png" class="lazyload" data-src="https://mpshop.tn/5638-home_default/lampe-economique-led-7w.webp"
+                                alt = "LAMPE ÉCONOMIQUE LED 7W"
+                                data-full-size-image-url = "https://mpshop.tn/5638-large_default/lampe-economique-led-7w.webp" /><span class="ets_loading">
+    <div class="spinner_1"></div>
+</span>
+                        </a>
+                    
+                    
+                        <ul class="product-flags">
+                                                    </ul>
+                    
+                    <div class="highlighted-informations no-variants hidden-sm-down">
+                        
+                            <a class="quick-view" href="#" data-link-action="quickview">
+                                <i class="material-icons search">&#xE8B6;</i> Aperçu rapide
+                            </a>
+                        
+                        
+                                                    
+                    </div>
+                </div>
+                <div class="product-description">
+                    
+                        <h1 class="h3 product-title" itemprop="name"><a href="https://mpshop.tn/luminaire-eclairage/2229-lampe-economique-led-7w.html">LAMPE ÉCONOMIQUE LED 7W</a></h1>
+                        
+                        
+                    
+                                                    <div class="product-price-and-shipping">
+                                
+                                
+
+                                <span class="sr-only">Prix</span>
+                                <span itemprop="price" class="price">5,500 DT</span>
+
+                                
+
+                                
+                            </div>
+                                            
+                    <div class="add">
+                        <form action="https://mpshop.tn/panier" class="cart-form-url" method="post">
+                            <input type="hidden" name="token" class="cart-form-token" value="9ac525337ac6786a00aad956c5877cf3">
+                            <input type="hidden" value="2229" name="id_product">
+                            <input type="hidden" class="input-group form-control" value="1" name="qty" />
+                            <button data-button-action="add-to-cart" class="btn btn-primary" >
+															Ajouter au panier
+							  							</button>
+                        </form>
+                    </div>
+                    
+                        
+                    
+                </div>
+            </div>
+        </article>
+    </div>
+
+              
+    <div class="product-item">
+        <article class="product-miniature js-product-miniature" data-id-product="3057" data-id-product-attribute="0" itemscope itemtype="http://schema.org/Product">
+			<div class="thumbnail-container">
+                <div class="product-image-block">
+                    
+                        <a href="https://mpshop.tn/barrettes-memoire/3057-barrette-memoire-pc-bureau-1go-ddr2-6400u.html" class="thumbnail product-thumbnail">
+                            <img src="https://mpshop.tn/modules/ets_superspeed/views/img/preloading.png" class="lazyload" data-src="https://mpshop.tn/7153-home_default/barrette-memoire-pc-bureau-1go-ddr2-6400u.webp"
+                                alt = "BARETTE MÉMOIRE PC BUREAU 4GO DDR3 12800"
+                                data-full-size-image-url = "https://mpshop.tn/7153-large_default/barrette-memoire-pc-bureau-1go-ddr2-6400u.webp" /><span class="ets_loading">
+    <div class="spinner_1"></div>
+</span>
+                        </a>
+                    
+                    
+                        <ul class="product-flags">
+                                                    </ul>
+                    
+                    <div class="highlighted-informations no-variants hidden-sm-down">
+                        
+                            <a class="quick-view" href="#" data-link-action="quickview">
+                                <i class="material-icons search">&#xE8B6;</i> Aperçu rapide
+                            </a>
+                        
+                        
+                                                    
+                    </div>
+                </div>
+                <div class="product-description">
+                    
+                        <h1 class="h3 product-title" itemprop="name"><a href="https://mpshop.tn/barrettes-memoire/3057-barrette-memoire-pc-bureau-1go-ddr2-6400u.html">BARRETTE MÉMOIRE PC BUREAU 1GO DDR2 6400U</a></h1>
+                        
+                        
+                    
+                                                    <div class="product-price-and-shipping">
+                                
+                                
+
+                                <span class="sr-only">Prix</span>
+                                <span itemprop="price" class="price">19,000 DT</span>
+
+                                
+
+                                
+                            </div>
+                                            
+                    <div class="add">
+                        <form action="https://mpshop.tn/panier" class="cart-form-url" method="post">
+                            <input type="hidden" name="token" class="cart-form-token" value="9ac525337ac6786a00aad956c5877cf3">
+                            <input type="hidden" value="3057" name="id_product">
+                            <input type="hidden" class="input-group form-control" value="1" name="qty" />
+                            <button data-button-action="add-to-cart" class="btn btn-primary" >
+															Ajouter au panier
+							  							</button>
+                        </form>
+                    </div>
+                    
+                        
+                    
+                </div>
+            </div>
+        </article>
+    </div>
+
+              
+    <div class="product-item">
+        <article class="product-miniature js-product-miniature" data-id-product="2659" data-id-product-attribute="0" itemscope itemtype="http://schema.org/Product">
+			<div class="thumbnail-container">
+                <div class="product-image-block">
+                    
+                        <a href="https://mpshop.tn/carte-son/2659-carte-son-externe-usb-multimedia.html" class="thumbnail product-thumbnail">
+                            <img src="https://mpshop.tn/modules/ets_superspeed/views/img/preloading.png" class="lazyload" data-src="https://mpshop.tn/6272-home_default/carte-son-externe-usb-multimedia.webp"
+                                alt = "CARTE SON EXTERNE"
+                                data-full-size-image-url = "https://mpshop.tn/6272-large_default/carte-son-externe-usb-multimedia.webp" /><span class="ets_loading">
+    <div class="spinner_1"></div>
+</span>
+                        </a>
+                    
+                    
+                        <ul class="product-flags">
+                                                            <li class="product-flag on-sale">** offre **</li>
+                                                                <li class="product-flag discount">-9,000 DT</li>
+                                                        </ul>
+                    
+                    <div class="highlighted-informations no-variants hidden-sm-down">
+                        
+                            <a class="quick-view" href="#" data-link-action="quickview">
+                                <i class="material-icons search">&#xE8B6;</i> Aperçu rapide
+                            </a>
+                        
+                        
+                                                    
+                    </div>
+                </div>
+                <div class="product-description">
+                    
+                        <h1 class="h3 product-title" itemprop="name"><a href="https://mpshop.tn/carte-son/2659-carte-son-externe-usb-multimedia.html">CARTE SON EXTERNE USB MULTIMEDIA</a></h1>
+                        
+                        
+                    
+                                                    <div class="product-price-and-shipping">
+                                                                    
+
+                                    <span class="sr-only">Prix de base</span>
+                                    <span class="regular-price">15,000 DT</span>
+                                
+                                
+
+                                <span class="sr-only">Prix</span>
+                                <span itemprop="price" class="price">6,000 DT</span>
+
+                                
+
+                                
+                            </div>
+                                            
+                    <div class="add">
+                        <form action="https://mpshop.tn/panier" class="cart-form-url" method="post">
+                            <input type="hidden" name="token" class="cart-form-token" value="9ac525337ac6786a00aad956c5877cf3">
+                            <input type="hidden" value="2659" name="id_product">
+                            <input type="hidden" class="input-group form-control" value="1" name="qty" />
+                            <button data-button-action="add-to-cart" class="btn btn-primary" >
+															Ajouter au panier
+							  							</button>
+                        </form>
+                    </div>
+                    
+                        
+                    
+                </div>
+            </div>
+        </article>
+    </div>
+
+              
+    <div class="product-item">
+        <article class="product-miniature js-product-miniature" data-id-product="3767" data-id-product-attribute="0" itemscope itemtype="http://schema.org/Product">
+			<div class="thumbnail-container">
+                <div class="product-image-block">
+                    
+                        <a href="https://mpshop.tn/tournevis-/3767-pack-de-tournevis-de-precision.html" class="thumbnail product-thumbnail">
+                            <img src="https://mpshop.tn/modules/ets_superspeed/views/img/preloading.png" class="lazyload" data-src="https://mpshop.tn/8891-home_default/pack-de-tournevis-de-precision.webp"
+                                alt = "PACK DE TOURNEVIS DE PRÉCISION"
+                                data-full-size-image-url = "https://mpshop.tn/8891-large_default/pack-de-tournevis-de-precision.webp" /><span class="ets_loading">
+    <div class="spinner_1"></div>
+</span>
+                        </a>
+                    
+                    
+                        <ul class="product-flags">
+                                                            <li class="product-flag discount">-10,000 DT</li>
+                                                        </ul>
+                    
+                    <div class="highlighted-informations no-variants hidden-sm-down">
+                        
+                            <a class="quick-view" href="#" data-link-action="quickview">
+                                <i class="material-icons search">&#xE8B6;</i> Aperçu rapide
+                            </a>
+                        
+                        
+                                                    
+                    </div>
+                </div>
+                <div class="product-description">
+                    
+                        <h1 class="h3 product-title" itemprop="name"><a href="https://mpshop.tn/tournevis-/3767-pack-de-tournevis-de-precision.html">PACK DE TOURNEVIS DE PRÉCISION</a></h1>
+                        
+                        
+                    
+                                                    <div class="product-price-and-shipping">
+                                                                    
+
+                                    <span class="sr-only">Prix de base</span>
+                                    <span class="regular-price">24,000 DT</span>
+                                
+                                
+
+                                <span class="sr-only">Prix</span>
+                                <span itemprop="price" class="price">14,000 DT</span>
+
+                                
+
+                                
+                            </div>
+                                            
+                    <div class="add">
+                        <form action="https://mpshop.tn/panier" class="cart-form-url" method="post">
+                            <input type="hidden" name="token" class="cart-form-token" value="9ac525337ac6786a00aad956c5877cf3">
+                            <input type="hidden" value="3767" name="id_product">
+                            <input type="hidden" class="input-group form-control" value="1" name="qty" />
+                            <button data-button-action="add-to-cart" class="btn btn-primary" >
+															Ajouter au panier
+							  							</button>
+                        </form>
+                    </div>
+                    
+                        
+                    
+                </div>
+            </div>
+        </article>
+    </div>
+
+              
+    <div class="product-item">
+        <article class="product-miniature js-product-miniature" data-id-product="2490" data-id-product-attribute="0" itemscope itemtype="http://schema.org/Product">
+			<div class="thumbnail-container">
+                <div class="product-image-block">
+                    
+                        <a href="https://mpshop.tn/divers-smartphone/2490-cable-otg-vers-micro-usb-cornnet.html" class="thumbnail product-thumbnail">
+                            <img src="https://mpshop.tn/modules/ets_superspeed/views/img/preloading.png" class="lazyload" data-src="https://mpshop.tn/8479-home_default/cable-otg-vers-micro-usb-cornnet.webp"
+                                alt = "CÂBLE OTG VERS MICRO USB..."
+                                data-full-size-image-url = "https://mpshop.tn/8479-large_default/cable-otg-vers-micro-usb-cornnet.webp" /><span class="ets_loading">
+    <div class="spinner_1"></div>
+</span>
+                        </a>
+                    
+                    
+                        <ul class="product-flags">
+                                                            <li class="product-flag on-sale">** offre **</li>
+                                                                <li class="product-flag discount">-1,000 DT</li>
+                                                        </ul>
+                    
+                    <div class="highlighted-informations no-variants hidden-sm-down">
+                        
+                            <a class="quick-view" href="#" data-link-action="quickview">
+                                <i class="material-icons search">&#xE8B6;</i> Aperçu rapide
+                            </a>
+                        
+                        
+                                                    
+                    </div>
+                </div>
+                <div class="product-description">
+                    
+                        <h1 class="h3 product-title" itemprop="name"><a href="https://mpshop.tn/divers-smartphone/2490-cable-otg-vers-micro-usb-cornnet.html">CÂBLE OTG VERS MICRO USB CORNNET</a></h1>
+                        
+                        
+                    
+                                                    <div class="product-price-and-shipping">
+                                                                    
+
+                                    <span class="sr-only">Prix de base</span>
+                                    <span class="regular-price">3,500 DT</span>
+                                
+                                
+
+                                <span class="sr-only">Prix</span>
+                                <span itemprop="price" class="price">2,500 DT</span>
+
+                                
+
+                                
+                            </div>
+                                            
+                    <div class="add">
+                        <form action="https://mpshop.tn/panier" class="cart-form-url" method="post">
+                            <input type="hidden" name="token" class="cart-form-token" value="9ac525337ac6786a00aad956c5877cf3">
+                            <input type="hidden" value="2490" name="id_product">
+                            <input type="hidden" class="input-group form-control" value="1" name="qty" />
+                            <button data-button-action="add-to-cart" class="btn btn-primary" >
+															Ajouter au panier
+							  							</button>
+                        </form>
+                    </div>
+                    
+                        
+                    
+                </div>
+            </div>
+        </article>
+    </div>
+
+            </div>
+        			<div class="mp-mobile-control" >
+				<button class="mp-left"><i class="fa-solid fa-arrow-left"></i></button>
+				<button class="mp-right"><i class="fa-solid fa-arrow-right"></i></button>
+			</div>
+	</div>

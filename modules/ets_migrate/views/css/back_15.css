@@ -1,0 +1,147 @@
+.form-wrapper-group-step.step1 {
+    text-align: center;
+    width: 570px;
+    margin: 0 auto;
+    max-width: 100%;
+}
+.form-wrapper-group-step.step1 > .form-group label {
+    width: 25%;
+}
+.form-wrapper-group-step.step1 > .form-group .margin-form {
+    padding-left: 27%;
+}
+input#ETS_EM_ACCESS_TOKEN, input#ETS_EM_DOMAIN {
+    width: 100%;
+}
+.text-center {
+    text-align: center;
+}
+*,*:before,*:after{
+    box-sizing: border-box;
+    -webkit-box-sizing: border-box;
+}
+.advanced_settings > .ets_em_data_to_migrate > label {
+    display: none;
+}
+.ets_em_form_wrap fieldset > legend {
+    display: none;
+}
+form sup {
+    margin-left: 5px;
+    font-size: 16px;
+    height: 12px;
+}
+#module_form > fieldset#fieldset_0 > legend {
+    display: none;
+}
+#module_form > fieldset#fieldset_0 {
+    max-width: 800px;
+    margin: 0 auto;
+    background: #fff;
+    border-radius: 5px;
+}
+.ets-em-step3-active #module_form > fieldset#fieldset_0 {
+    max-width: 1100px;
+}
+div#main,body {
+    background: #eee;
+}
+.ets_mg_export_import_form_content .data_to_migrate .items_left_label label, .ets_mg_export_import_form_content .data_to_migrate .items_right span {
+    width: auto;
+    float: none;
+}
+.ets_em_form label.ets_custom_checkbox {
+    text-align: -webkit-auto;
+    width: auto;
+    float: none;
+}
+.form-group {
+    margin-bottom: 15px;
+}
+.margin-form label.ets_custom_radio {
+    font-weight: normal;
+    width: auto;
+    text-align: left;
+}
+span.ets_custom_radio_content span.ets_checkbox {
+    margin-left: 0;
+}
+.bootstrap .form-wrapper-group-step .form-group select, 
+.form-wrapper-group-step .form-group select {
+    min-height: 31px;
+    padding: 6px 8px;
+}
+.ets-em-shop-mapping-list select.col-lg-4 {
+    width: 33.33%;
+}
+.ets-em-shop-mapping-list .shop-mapping-item.form-group {
+    padding-left: 25px;
+    padding-right: 25px;
+}
+.form-group.wrap-migrate .form-group-content p {
+    margin-bottom: 7px;
+    margin-top: 0;
+    padding-bottom: 0;
+}
+.pull-right {
+    float: right;
+}
+.migration-done .ets_mg_keycode[type=text] {
+    width: 100%;
+}
+.form-wrapper-group-step.step3 {
+    max-width: 1170px;
+    margin: 0 auto;
+}
+.ets_em_form .ets_em_form_wrap fieldset {
+    border: none;
+    background: #fff;
+}
+
+@media (min-width: 768px){
+    .col-sm-6 {
+        width: 50%;
+        float: left;
+        padding: 0 5px;
+    }
+    .ets_mg_process_item.col-sm-4 {
+        width: 33.33%;
+        float: left;
+    }
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

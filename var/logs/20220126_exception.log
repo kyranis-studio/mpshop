@@ -1,0 +1,2 @@
+*ERROR* 	v1.7.8.2	2022/01/26 - 17:57:42: La propri&eacute;t&eacute; Customer-&gt;lastname n&#039;est pas valide. at line 1046 in file classes/ObjectModel.php
+*ERROR* 	v1.7.8.2	2022/01/26 - 20:23:57: La propri&eacute;t&eacute; Customer-&gt;email n&#039;est pas valide. at line 1046 in file classes/ObjectModel.php

@@ -1,0 +1,919 @@
+<data>
+<modules><item>
+<id><![CDATA[61]]></id>
+<title><![CDATA[Super Speed - Incredibly fast - GTmetrix optimization]]></title>
+<title_fr><![CDATA[Super Speed - Super rapide - Optimisation GTmetrix]]></title_fr>
+<title_it><![CDATA[Super Speed - Cos&igrave; veloce - Ottimizzazione GTmetrix]]></title_it>
+<title_es><![CDATA[Super Speed - Rapidez incre&iacute;ble - Optimizaci&oacute;n GTmetrix]]></title_es>
+<desc><![CDATA[All-in-one speed optimization tool to maximize page speed, utilize server resources and improve SEO. Innovative caching solutions, image and database optimization, HTML/ CSS/JavaScript minification and GZIP are all included for website instant load]]></desc>
+<desc_fr><![CDATA[Un outil d&rsquo;optimisation de la vitesse tout-en-un pour maximiser les performances et am&eacute;liorer SEO. Solutions de cache innovantes, optimisation des images et de la base de donn&eacute;es, minification HTML/CSS/JavaScript et GZIP pour un chargement instantan&eacute;]]></desc_fr>
+<desc_it><![CDATA[Tool di ottimizzazione velocit&agrave; all-in-one per ottimizzare usare il server e migliorare la SEO. Soluzioni innovative per cache, ottimizzazione immagini e database, minimizzazione HTML/CSS/JavaScript e GZIP: tutto incluso: il tuo sito sar&agrave; velocissimo]]></desc_it>
+<desc_es><![CDATA[Herramienta integral: maximiza la velocidad, aprovecha recursos del servidor y mejorar SEO con soluciones innovadoras de memoria cach&eacute;, optimizaci&oacute;n de im&aacute;genes y bases de datos, minimizaci&oacute;n de HTML/CSS/JavaScript y GZIP. &iexcl;Carga tu web al instante!]]></desc_es>
+<price><![CDATA[179]]></price>
+<rating><![CDATA[4.5]]></rating>
+<rating_count><![CDATA[117]]></rating_count>
+<link><![CDATA[https://addons.prestashop.com/en/website-performance/44977-super-speed-incredibly-fast-gtmetrix-optimization.html]]></link>
+<link_fr><![CDATA[https://addons.prestashop.com/fr/performance-site/44977-super-speed-super-rapide-optimisation-gtmetrix.html]]></link_fr>
+<link_it><![CDATA[https://addons.prestashop.com/it/website-performance/44977-super-speed-cosi-veloce-ottimizzazione-gtmetrix.html]]></link_it>
+<link_es><![CDATA[https://addons.prestashop.com/es/rendimiento-sitio-web/44977-super-speed-rapidez-increible-optimizacion-gtmetrix.html]]></link_es>
+<contact_url><![CDATA[https://addons.prestashop.com/contact-form.php?id_product=44977]]></contact_url>
+<icon><![CDATA[https://medias2.prestastore.com/img/pico/44977.jpg]]></icon>
+<download><![CDATA[1000]]></download>
+<badge><![CDATA[]]></badge>
+<module_id><![CDATA[ets_superspeed]]></module_id>
+<enabled><![CDATA[1]]></enabled>
+<must_have><![CDATA[1]]></must_have>
+<categories><![CDATA[3,1]]></categories>
+</item>
+<item>
+<id><![CDATA[21]]></id>
+<title><![CDATA[SEO Audit]]></title>
+<title_fr><![CDATA[SEO Audit]]></title_fr>
+<title_it><![CDATA[SEO Audit]]></title_it>
+<title_es><![CDATA[SEO Audit]]></title_es>
+<desc><![CDATA[Hit Google top #1 with best SEO practices 2020! Extremely good, all-in-one&nbsp;Prestashop SEO module, up-to-date with Google SEO rank math. SEO Audit is the only SEO module you need!]]></desc>
+<desc_fr><![CDATA[Hit Google top #1 with best SEO practices 2020! Extremely good, all-in-one&nbsp;Prestashop SEO module, up-to-date with Google SEO rank math. SEO Audit is the only SEO module you need!]]></desc_fr>
+<desc_it><![CDATA[Hit Google top #1 with best SEO practices 2020! Extremely good, all-in-one&nbsp;Prestashop SEO module, up-to-date with Google SEO rank math. SEO Audit is the only SEO module you need!]]></desc_it>
+<desc_es><![CDATA[Hit Google top #1 with best SEO practices 2020! Extremely good, all-in-one&nbsp;Prestashop SEO module, up-to-date with Google SEO rank math. SEO Audit is the only SEO module you need!]]></desc_es>
+<price><![CDATA[149]]></price>
+<rating><![CDATA[4.5]]></rating>
+<rating_count><![CDATA[31]]></rating_count>
+<link><![CDATA[https://addons.prestashop.com/en/seo-natural-search-engine-optimization/28279-seo.html]]></link>
+<link_fr><![CDATA[https://addons.prestashop.com/en/seo-natural-search-engine-optimization/28279-seo.html]]></link_fr>
+<link_it><![CDATA[https://addons.prestashop.com/en/seo-natural-search-engine-optimization/28279-seo.html]]></link_it>
+<link_es><![CDATA[https://addons.prestashop.com/en/seo-natural-search-engine-optimization/28279-seo.html]]></link_es>
+<contact_url><![CDATA[https://addons.prestashop.com/contact-form.php?id_product=28279]]></contact_url>
+<icon><![CDATA[https://medias2.prestastore.com/img/pico/28279.jpg]]></icon>
+<download><![CDATA[]]></download>
+<badge><![CDATA[]]></badge>
+<module_id><![CDATA[ets_seo]]></module_id>
+<enabled><![CDATA[1]]></enabled>
+<must_have><![CDATA[1]]></must_have>
+<categories><![CDATA[1]]></categories>
+</item>
+<item>
+<id><![CDATA[18]]></id>
+<title><![CDATA[BLOG]]></title>
+<title_fr><![CDATA[BLOG &ndash; Un module SEO riche en fonctionnalit&eacute;s]]></title_fr>
+<title_it><![CDATA[BLOG - Ottimizzato SEO e ricco di funzioni]]></title_it>
+<title_es><![CDATA[BLOG&ndash;Mejor posicionamiento SEO y variedad de funciones]]></title_es>
+<desc><![CDATA[The most trusted PrestaShop blog module, best traffic module award, best performance, easy-to-use and feature-rich!&nbsp;BLOG is an all-in-one PrestaShop module that brings all essential features of a blog to your website.&nbsp;]]></desc>
+<desc_fr><![CDATA[Le module de blog le plus fiable de PrestaShop, r&eacute;compense du meilleur module de trafic, meilleures performances et de nombreuses fonctionnalit&eacute;s! BLOG est un module tout-en-un qui apporte toutes fonctionnalit&eacute;s essentielles d&#39;un blog &agrave; votre site.]]></desc_fr>
+<desc_it><![CDATA[Il modulo di blog PrestaShop pi&ugrave; affidabile, il miglior modulo sul traffico, le migliori prestazioni, facile da usare e ricco di funzionalit&agrave;! BLOG &egrave; un modulo tutto-in-uno che porta tutte le funzionalit&agrave; essenziali di un blog sul tuo sito web]]></desc_it>
+<desc_es><![CDATA[El m&oacute;dulo de blog de PrestaShop m&aacute;s confiable, premio al mejor m&oacute;dulo de tr&aacute;fico, mejor rendimiento, f&aacute;cil de usar y con muchas funciones. BLOG es un m&oacute;dulo todo-en-uno que trae todas las caracter&iacute;sticas esenciales de un blog a su sitio web]]></desc_es>
+<price><![CDATA[149]]></price>
+<rating><![CDATA[5]]></rating>
+<rating_count><![CDATA[229]]></rating_count>
+<link><![CDATA[https://addons.prestashop.com/en/blog-forum-new/25908-blog.html]]></link>
+<link_fr><![CDATA[https://addons.prestashop.com/fr/blog-forum-actualites/25908-blog-seo-optimise-et-riche-en-fonctionnalites.html]]></link_fr>
+<link_it><![CDATA[https://addons.prestashop.com/it/blog-forum-news/25908-blog-ottimizzato-per-seo-e-ricco-di-funzionalita.html]]></link_it>
+<link_es><![CDATA[https://addons.prestashop.com/es/blog-foro-noticias/25908-blog-seo-optimizado-y-rico-en-caracteristicas.html]]></link_es>
+<contact_url><![CDATA[https://addons.prestashop.com/contact-form.php?id_product=25908]]></contact_url>
+<icon><![CDATA[https://medias2.prestastore.com/img/pico/25908.jpg]]></icon>
+<download><![CDATA[2500]]></download>
+<badge><![CDATA[fav]]></badge>
+<module_id><![CDATA[ybc_blog]]></module_id>
+<enabled><![CDATA[0]]></enabled>
+<must_have><![CDATA[1]]></must_have>
+<categories><![CDATA[12,1]]></categories>
+</item>
+<item>
+<id><![CDATA[19]]></id>
+<title><![CDATA[Mega Menu PRO]]></title>
+<title_fr><![CDATA[Mega Menu PRO &ndash; Drag &amp; drop visuel]]></title_fr>
+<title_it><![CDATA[Menu &ndash; Drag &amp; drop visivo]]></title_it>
+<title_es><![CDATA[Mega Menu PRO &ndash; Arrastra y suelta de forma visual]]></title_es>
+<desc><![CDATA[The most powerful Prestashop mega menu module 2019, awesome design, super easy-to-use, display perfectly on mobile devices, visual drag/drop backend, support both vertical &amp; horizontal menu. Mega Menu PRO is the best Prestashop menu module ever!]]></desc>
+<desc_fr><![CDATA[Le module mega menu est l&#39;un des meilleurs de l&#39;ann&eacute;e 2019, avec un design &eacute;l&eacute;gant, une grande facilit&eacute; d&#39;utilisation, un affichage adaptable sur mobile, un back-end visuel avec fonctionnalit&eacute; glisser/d&eacute;poser et support menu verticale et horizontal.]]></desc_fr>
+<desc_it><![CDATA[Il pi&ugrave; potente modulo mega menu Prestashop 2019, con un design eccezionale, super facile da usare, si adatta perfettamente ai dispositivi mobili, con backend Drag and Drop, supporta sia il menu verticale che quello orizzontale.]]></desc_it>
+<desc_es><![CDATA[El m&oacute;dulo demega men&uacute; de mayor alcance de Prestashop 2019, tiene un dise&ntilde;o impresionante, es super f&aacute;cil de usar, su pantalla es perfecta para m&oacute;viles, visual back-end para arrastrar y colocar, soporte de men&uacute; tanto vertical como horizontal]]></desc_es>
+<price><![CDATA[69]]></price>
+<rating><![CDATA[4.5]]></rating>
+<rating_count><![CDATA[335]]></rating_count>
+<link><![CDATA[https://addons.prestashop.com/en/menu/27075-mega-menu-pro.html]]></link>
+<link_fr><![CDATA[https://addons.prestashop.com/fr/menu/27075-mega-menu-pro-glisser-et-deposer-vos-visuels.html]]></link_fr>
+<link_it><![CDATA[https://addons.prestashop.com/it/menu/27075-mega-menu-pro-visivo-trascinare-e-rilasciare.html]]></link_it>
+<link_es><![CDATA[https://addons.prestashop.com/es/menu/27075-mega-menu-pro-visual-arrastrar-y-soltar.html]]></link_es>
+<contact_url><![CDATA[https://addons.prestashop.com/contact-form.php?id_product=27075]]></contact_url>
+<icon><![CDATA[https://medias2.prestastore.com/img/pico/27075.jpg]]></icon>
+<download><![CDATA[2500]]></download>
+<badge><![CDATA[elected]]></badge>
+<module_id><![CDATA[ets_megamenu]]></module_id>
+<enabled><![CDATA[0]]></enabled>
+<must_have><![CDATA[1]]></must_have>
+<categories><![CDATA[2]]></categories>
+</item>
+<item>
+<id><![CDATA[51]]></id>
+<title><![CDATA[1-Click Direct Upgrade]]></title>
+<title_fr><![CDATA[1 CLICK - Migrer ou mettre &agrave; niveau &agrave; la version 1.7]]></title_fr>
+<title_it><![CDATA[1 CLICK - Migrare o aggiornare a Prestashop 1.7]]></title_it>
+<title_es><![CDATA[1 CLICK - Migrar o actualizar a Prestashop 1.7]]></title_es>
+<desc><![CDATA[Directly upgrade PrestaShop 1.5, 1.6, 1.7 to the latest version of 1.7 in 1-click. 100% refund guaranteed if no success! This is not a migration tool but a real direct upgrade module to upgrade Prestashop to 1.7]]></desc>
+<desc_fr><![CDATA[Mettez à niveau PrestaShop 1.5, 1.6, 1.7 vers la version la plus récente de PrestaShop 1.7 en un clic. Satisfait ou remboursé ! Il ne s’agit pas d’un outil de migration, mais d’un véritable module de mise à niveau directe pour passer à PrestaShop 1.7]]></desc_fr>
+<desc_it><![CDATA[Eseguire l’upgrade diretto di PrestaShop 1.5, 1.6, 1.7 all’ultima versione 1.7 con 1 clic. In caso di esito negativo, garanzia di rimborso al 100%. Non è uno strumento di migrazione ma un modulo per fare l’upgrade di PrestaShop alla versione 1.7]]></desc_it>
+<desc_es><![CDATA[Actualiza directamente PrestaShop 1.5, 1.6, 1.7 a la última versión de 1.7 en 1 clic. ¡Reembolso del 100 % si no se puede instalar! Esto no es una herramienta de migración, sino un módulo de actualización directa real para actualizar PrestaShop a 1.7]]></desc_es>
+<price><![CDATA[99]]></price>
+<rating><![CDATA[4.5]]></rating>
+<rating_count><![CDATA[83]]></rating_count>
+<link><![CDATA[https://addons.prestashop.com/en/data-migration-backup/31424-1-click-to-migrate-or-upgrade.html]]></link>
+<link_fr><![CDATA[https://addons.prestashop.com/fr/migration-donnees-sauvegarde/31424-1-click-migrer-ou-mettre-a-niveau-a-la-version-17.html]]></link_fr>
+<link_it><![CDATA[https://addons.prestashop.com/it/data-migration-backup/31424-1-click-migrare-o-aggiornare-a-prestashop-17.html]]></link_it>
+<link_es><![CDATA[https://addons.prestashop.com/es/migracion-copias-de-seguridad/31424-1-click-migrar-o-actualizar-a-prestashop-17.html]]></link_es>
+<contact_url><![CDATA[https://addons.prestashop.com/en/contact-us?id_product=27376]]></contact_url>
+<icon><![CDATA[https://medias2.prestastore.com/img/pico/31424.jpg]]></icon>
+<download><![CDATA[1000]]></download>
+<badge><![CDATA[]]></badge>
+<module_id><![CDATA[ets_oneclicktomigrate]]></module_id>
+<enabled><![CDATA[0]]></enabled>
+<must_have><![CDATA[1]]></must_have>
+<categories><![CDATA[5]]></categories>
+</item>
+<item>
+<id><![CDATA[9]]></id>
+<title><![CDATA[CAPTCHA - reCAPTCHA - Anti spam - Anti fake account]]></title>
+<title_fr><![CDATA[CAPTCHA - reCAPTCHA - Anti spam - Anti faux comptes]]></title_fr>
+<title_it><![CDATA[CAPTCHA - reCAPTCHA - Anti spam - Anti conti falsi]]></title_it>
+<title_es><![CDATA[CAPTCHA - reCAPTCHA - Anti spam - Anti cuentas falsas]]></title_es>
+<desc><![CDATA[Get rid of spam emails and spam customer accounts with Google reCAPTCHA, IP blacklist and email blacklist. The best Prestashop CAPTCHA - reCAPTCHA module for contact form, login and registration form, newsletter subscription and all other forms.]]></desc>
+<desc_fr><![CDATA[Éliminez les spams et les comptes de spams avec Google reCAPTCHA, la liste noire IP et la liste noire des emails. Le meilleur module Prestashop CAPTCHA - reCAPTCHA pour formulaire de contact, formulaire d’inscription et tous les autres formulaires.]]></desc_fr>
+<desc_it><![CDATA[Sbarazzati delle e-mail di spam e degli account dei clienti di spam con Google reCAPTCHA, blacklist IP e blacklist e-mail. Il miglior modulo Prestashop CAPTCHA - reCAPTCHA per formulario di contatto, formulario di accesso e tutte le altre formulario.]]></desc_it>
+<desc_es><![CDATA[Deshágase del email y las cuentas de clientes no deseados con Google reCAPTCHA, la lista negra de IP y la lista negra de correo electrónico. El mejor módulo Prestashop CAPTCHA - reCAPTCHA para formulario de contacto y todos los demás formularios.]]></desc_es>
+<price><![CDATA[49]]></price>
+<rating><![CDATA[5]]></rating>
+<rating_count><![CDATA[188]]></rating_count>
+<link><![CDATA[https://addons.prestashop.com/en/website-security-access/26997-captcha-recaptcha-anti-spam-anti-fake-account.html]]></link>
+<link_fr><![CDATA[https://addons.prestashop.com/fr/securite-access/26997-captcha-recaptcha-anti-spam-anti-faux-comptes.html]]></link_fr>
+<link_it><![CDATA[https://addons.prestashop.com/it/security-access/26997-captcha-recaptcha-anti-spam-anti-conti-falsi.html]]></link_it>
+<link_es><![CDATA[https://addons.prestashop.com/es/seguridad-y-accesos/26997-captcha-recaptcha-anti-spam-anti-cuentas-falsas.html]]></link_es>
+<contact_url><![CDATA[https://addons.prestashop.com/contact-form.php?id_product=26997]]></contact_url>
+<icon><![CDATA[https://medias2.prestastore.com/img/pico/26997.jpg]]></icon>
+<download><![CDATA[2500]]></download>
+<badge><![CDATA[]]></badge>
+<module_id><![CDATA[ets_advancedcaptcha]]></module_id>
+<enabled><![CDATA[0]]></enabled>
+<must_have><![CDATA[1]]></must_have>
+<categories><![CDATA[6]]></categories>
+</item>
+<item>
+<id><![CDATA[60]]></id>
+<title><![CDATA[Loyalty, referral & affiliate program (reward points)]]></title>
+<title_fr><![CDATA[Programmes fid&eacute;lit&eacute;, de parrainage et d&rsquo;associ&eacute;s]]></title_fr>
+<title_it><![CDATA[Progr. Fedelt&agrave;, Segnalazione e Affiliato (punti premio)]]></title_it>
+<title_es><![CDATA[Lealtad, referidos y afiliaci&oacute;n (puntos de fidelidad)]]></title_es>
+<desc><![CDATA[Allows customers to earn rewards (points or cash) when they buy, sell or refer new customers to your website. Includes 3 marketing programs: Loyalty, Referral and Affiliate programs to boost your sales and customers.]]></desc>
+<desc_fr><![CDATA[Offrez des récompenses (points ou argent) à vos clients lorsqu’ils achètent, vendent ou invitent des clients sur votre site web. Les 3 programmes marketing inclus (programmes fidélité, de parrainage et d’associés) boostent vos ventes et vos clients.]]></desc_fr>
+<desc_it><![CDATA[Consente ai clienti di vincere premi (punti o contanti) quando acquistano, vendono o segnalano nuovi clienti sul tuo sito. comprende 3 programmi di marketing: Programmi Fedeltà, Segnalazione e Affiliato per potenziare le vendite e clienti]]></desc_it>
+<desc_es><![CDATA[Permite a los clientes ganar premios (puntos o efectivo) al comprar, vender o recomendar la web a nuevos clientes. El módulo incluye 3 programas de marketing: Lealtad, Referidos y Afiliados para aumentar sus ventas y su lista de clientes.]]></desc_es>
+<price><![CDATA[149]]></price>
+<rating><![CDATA[5]]></rating>
+<rating_count><![CDATA[58]]></rating_count>
+<link><![CDATA[https://addons.prestashop.com/en/referral-loyalty-programs/43119-loyalty-referral-and-affiliate-marketing.html]]></link>
+<link_fr><![CDATA[https://addons.prestashop.com/fr/fidelisation-parrainage/43119-programmes-fidelite-de-parrainage-et-dassocies.html]]></link_fr>
+<link_it><![CDATA[https://addons.prestashop.com/it/programmi-fedelta-affiliazione/43119-programma-di-fedelta-referral-e-affiliati.html]]></link_it>
+<link_es><![CDATA[https://addons.prestashop.com/es/programa-fidelidad/43119-fidelizacion-referidos-y-marketing-de-afiliados.html]]></link_es>
+<contact_url><![CDATA[https://addons.prestashop.com/contact-form.php?id_product=43119]]></contact_url>
+<icon><![CDATA[https://medias2.prestastore.com/img/pico/43119.jpg]]></icon>
+<download><![CDATA[100]]></download>
+<badge><![CDATA[]]></badge>
+<module_id><![CDATA[ets_affiliatemarketing]]></module_id>
+<enabled><![CDATA[0]]></enabled>
+<must_have><![CDATA[1]]></must_have>
+<categories><![CDATA[9,1]]></categories>
+</item>
+<item>
+<id><![CDATA[50]]></id>
+<title><![CDATA[Abandoned Cart Reminder]]></title>
+<title_fr><![CDATA[Abandoned Cart Reminder]]></title_fr>
+<title_it><![CDATA[Abandoned Cart Reminder]]></title_it>
+<title_es><![CDATA[Abandoned Cart Reminder]]></title_es>
+<desc><![CDATA[Must-have PrestaShop abandoned cart reminder module to recover your lost shopping carts, retain existing customers and increase your sales by 50%]]></desc>
+<desc_fr><![CDATA[Must-have PrestaShop abandoned cart reminder module to recover your lost shopping carts, retain existing customers and increase your sales by 50%]]></desc_fr>
+<desc_it><![CDATA[Modulo PrestaShop promemoria carrello abbandonato - non potete farne a meno. Usatelo per recuperare i carrelli acquisti andati persi, conservare i clienti esistenti e aumentare le vostre vendite del 50%]]></desc_it>
+<desc_es><![CDATA[El módulo de recordatorio de cestas abandonadas imprescindible de PrestaShop para recuperar tus cestas de compra abandonadas, mantener a los clientes existentes y aumentar tus ventas en un 50%]]></desc_es>
+<price><![CDATA[119]]></price>
+<rating><![CDATA[4.5]]></rating>
+<rating_count><![CDATA[60]]></rating_count>
+<link><![CDATA[https://addons.prestashop.com/en/remarketing-shopping-cart-abandonment/29944-abandoned-cart-reminder.html]]></link>
+<link_fr><![CDATA[https://addons.prestashop.com/en/remarketing-shopping-cart-abandonment/29944-abandoned-cart-reminder.html]]></link_fr>
+<link_it><![CDATA[https://addons.prestashop.com/it/remarketing-carrelli-abbandonati/29944-abandoned-cart-reminder.html]]></link_it>
+<link_es><![CDATA[https://addons.prestashop.com/es/remarketing-carritos-abandonados/29944-abandoned-cart-reminder.html]]></link_es>
+<contact_url><![CDATA[https://addons.prestashop.com/contact-form.php?id_product=29944]]></contact_url>
+<icon><![CDATA[https://medias2.prestastore.com/img/pico/29944.jpg]]></icon>
+<download><![CDATA[500]]></download>
+<badge><![CDATA[]]></badge>
+<module_id><![CDATA[ets_abandonedcart]]></module_id>
+<enabled><![CDATA[0]]></enabled>
+<must_have><![CDATA[1]]></must_have>
+<categories><![CDATA[10]]></categories>
+</item>
+<item>
+<id><![CDATA[52]]></id>
+<title><![CDATA[Prestashop Migrator – Safely upgrade Prestashop to 1.7]]></title>
+<title_fr><![CDATA[PrestaShop Migrator &ndash; Passez &agrave; PrestaShop 1.7]]></title_fr>
+<title_it><![CDATA[Aggiorna in modo sicuro e passa a Prestashop 1.7]]></title_it>
+<title_es><![CDATA[PrestashopMigrator&ndash;Pasa a Prestashop 1.7 con seguridad]]></title_es>
+<desc><![CDATA[Upgrade Prestashop 1.6, 1.5 or 1.4 to Prestashop 1.7 in a few clicks! Prestashop Migrator is the best Prestashop to Prestashop migration module that helps you migrate or upgrade your website to the latest version]]></desc>
+<desc_fr><![CDATA[Mettez à niveau Prestashop 1.6, 1.5 ou 1.4 vers la version 1.7 en quelques clics ! Prestashop Migrator est le meilleur module de migration Prestashop qui vous aide à migrer ou à mettre à niveau votre site vers la dernière version]]></desc_fr>
+<desc_it><![CDATA[Aggiorna Prestashop 1.6, 1.5 o 1.4 a Prestashop 1.7 in pochi passaggi! Prestashop Migrator è il miglior modulo di migrazione da Prestashop a Prestashop che ti aiuta a migrare o aggiornare il tuo sito web all'ultima versione.]]></desc_it>
+<desc_es><![CDATA[¡Actualización Prestashop 1.6, 1.5 o 1.4 a 1.7 en pocos clics! Prestashop Migrator es el mejor migrador de módulos de Prestashop a Prestashop que le ayudará a migrar o actulizar su web a la última versión]]></desc_es>
+<price><![CDATA[99]]></price>
+<rating><![CDATA[4.5]]></rating>
+<rating_count><![CDATA[119]]></rating_count>
+<link><![CDATA[https://addons.prestashop.com/en/data-migration-backup/32298-prestashop-migrator-safely-upgrade-prestashop-to-17.html]]></link>
+<link_fr><![CDATA[https://addons.prestashop.com/fr/migration-donnees-sauvegarde/32298-meilleur-outil-pour-mettre-a-niveau-prestashop-vers-17.html]]></link_fr>
+<link_it><![CDATA[https://addons.prestashop.com/it/data-migration-backup/32298-miglior-strumento-per-aggiornare-prestashop-alla-17.html]]></link_it>
+<link_es><![CDATA[https://addons.prestashop.com/es/migracion-copias-de-seguridad/32298-mejor-herramienta-para-actualizar-prestashop-a-17.html]]></link_es>
+<contact_url><![CDATA[https://addons.prestashop.com/contact-form.php?id_product=32298]]></contact_url>
+<icon><![CDATA[https://medias2.prestastore.com/img/pico/32298.jpg]]></icon>
+<download><![CDATA[1000]]></download>
+<badge><![CDATA[]]></badge>
+<module_id><![CDATA[ets_pres2pres]]></module_id>
+<enabled><![CDATA[0]]></enabled>
+<must_have><![CDATA[0]]></must_have>
+<categories><![CDATA[5]]></categories>
+</item>
+<item>
+<id><![CDATA[7]]></id>
+<title><![CDATA[INS Shopping Slider]]></title>
+<title_fr><![CDATA[INS Shopping Slider - Int&eacute;gration de r&eacute;seau social]]></title_fr>
+<title_it><![CDATA[INS Shopping Slider - Integrazione social network]]></title_it>
+<title_es><![CDATA[INS Shopping Slider - Integraci&oacute;n de redes sociale]]></title_es>
+<desc><![CDATA[Turn your Instagram account into an online shop! Support new Instagram API. PrestaShop Instagram feed module helps integrate Instagram into PrestaShop in 1 CLICK!]]></desc>
+<desc_fr><![CDATA[Transformez votre compte Instagram en boutique en ligne ! Prend en charge la nouvelle API Instagram. Le module de flux Instagram PrestaShop permet d'intégrer Instagram dans PrestaShop en 1 CLIC !]]></desc_fr>
+<desc_it><![CDATA[Trasforma il tuo account Instagram in un negozio online! Compatibile con la nuova API di Instagram. Il modulo feed di PrestaShop per Instagram aiuta a integrare Instagram in PrestaShop in 1 CLIC!]]></desc_it>
+<desc_es><![CDATA[¡Convierta su cuenta de Instagram en una tienda en línea! Compatible con la nueva API de Instagram. ¡El módulo de alimentación de Instagram de PrestaShop ayuda a integrar Instagram en PrestaShop en 1 CLIC!]]></desc_es>
+<price><![CDATA[149]]></price>
+<rating><![CDATA[4.5]]></rating>
+<rating_count><![CDATA[81]]></rating_count>
+<link><![CDATA[https://addons.prestashop.com/en/sliders-galleries/26058-ins-shopping-slider.html]]></link>
+<link_fr><![CDATA[https://addons.prestashop.com/fr/sliders-galeries/26058-ins-shopping-slider-integration-de-reseau-social.html]]></link_fr>
+<link_it><![CDATA[https://addons.prestashop.com/it/sliders/26058-ins-shopping-slider-integrazione-social-network.html]]></link_it>
+<link_es><![CDATA[https://addons.prestashop.com/es/sliders-galerias/26058-ins-shopping-slider-integracion-de-redes-sociale.html]]></link_es>
+<contact_url><![CDATA[https://addons.prestashop.com/contact-form.php?id_product=26058]]></contact_url>
+<icon><![CDATA[https://medias2.prestastore.com/img/pico/26058.jpg]]></icon>
+<download><![CDATA[1000]]></download>
+<badge><![CDATA[]]></badge>
+<module_id><![CDATA[ybc_instagram]]></module_id>
+<enabled><![CDATA[0]]></enabled>
+<must_have><![CDATA[0]]></must_have>
+<categories><![CDATA[8,7]]></categories>
+</item>
+<item>
+<id><![CDATA[55]]></id>
+<title><![CDATA[SOCIAL LOGIN - 32+ social networks]]></title>
+<title_fr><![CDATA[SOCIAL LOGIN - 32+ r&eacute;seaux sociaux]]></title_fr>
+<title_it><![CDATA[SOCIAL LOGIN - 32+ rete sociale]]></title_it>
+<title_es><![CDATA[SOCIAL LOGIN - 32+ redes sociales]]></title_es>
+<desc><![CDATA[Login and register with 32+ payment gateways and social networks such as Amazon, PayPal, Facebook, Google, Twitter, etc.  All-in-one social login module for Prestashop that is simple to use, highly stable & up-to-date with API changes]]></desc>
+<desc_fr><![CDATA[Connectez-vous et inscrivez-vous avec plus de 32 passerelles de paiement et réseaux sociaux tels qu'Amazon, Facebook, etc. Un module de connexion sociale pour Prestashop traduit à 100% en français, également disponible en anglais, espagnol et italien]]></desc_fr>
+<desc_it><![CDATA[Accedi e registrati con più di 32 gateway di pagamento e social network come Amazon, Facebook, ecc. Un innovativo modulo di accesso social per Prestashop che è tradotto al 100% in italiano, disponibile anche in inglese, spagnolo e francese]]></desc_it>
+<desc_es><![CDATA[Inicie sesión y regístrese con más de 32 pasarelas de pago y redes sociales como Amazon, Facebook, etc. Módulo de conectarse social innovador para Prestashop que está 100% traducido al español, también disponible en inglés, francés e italiano]]></desc_es>
+<price><![CDATA[49]]></price>
+<rating><![CDATA[5]]></rating>
+<rating_count><![CDATA[61]]></rating_count>
+<link><![CDATA[https://addons.prestashop.com/en/social-login-connect/39733-social-login-32-social-networks.html]]></link>
+<link_fr><![CDATA[https://addons.prestashop.com/fr/boutons-login-connect/39733-social-login-32-reseaux-sociaux.html]]></link_fr>
+<link_it><![CDATA[https://addons.prestashop.com/it/login-connessione/39733-social-login-32-rete-sociale.html]]></link_it>
+<link_es><![CDATA[https://addons.prestashop.com/es/botones-inicio-sesion-conexion/39733-social-login-32-redes-sociales.html]]></link_es>
+<contact_url><![CDATA[https://addons.prestashop.com/contact-form.php?id_product=39733]]></contact_url>
+<icon><![CDATA[https://medias2.prestastore.com/img/pico/39733.jpg]]></icon>
+<download><![CDATA[100]]></download>
+<badge><![CDATA[]]></badge>
+<module_id><![CDATA[ets_sociallogin]]></module_id>
+<enabled><![CDATA[0]]></enabled>
+<must_have><![CDATA[0]]></must_have>
+<categories><![CDATA[1,13,7]]></categories>
+</item>
+<item>
+<id><![CDATA[6]]></id>
+<title><![CDATA[Home Products PRO]]></title>
+<title_fr><![CDATA[Home Products PRO-Listes produit personnalisables]]></title_fr>
+<title_it><![CDATA[Home Products PRO-Lista prodotti personalizzabili]]></title_it>
+<title_es><![CDATA[Home Products PRO-Lista de producto personalizable]]></title_es>
+<desc><![CDATA[Home Products PRO helps your homepage look organized and increase the visibility of all products, allows displaying featured product lists and categories on rows or tab with carousel slider and grid view layout.]]></desc>
+<desc_fr><![CDATA[Home Products PRO vous permet d’organiser votre page d’accueil pour augmenter la visibilité de vos produits, ainsi que d’afficher des listes et des catégories de produits phares dans deslignes ou des onglets au format grille ou carrousel.]]></desc_fr>
+<desc_it><![CDATA[Home Products PRO aumentare la visibilità di tutti i prodotti sulla homepage; consente di visualizzare gli elenchi di prodotti in primo piano e le categorie con una disposizione banner a rotazionecarosello e visualizzazione a griglia.]]></desc_it>
+<desc_es><![CDATA[Con Home Products PRO tendrás una página de inicio organizada, conseguirás más visibilidad en todos los productos, y aparecerán las listas y categorías de los productos destacados en filas o pestañas en modo carrusel o con la vista de cuadrícula.]]></desc_es>
+<price><![CDATA[119]]></price>
+<rating><![CDATA[5]]></rating>
+<rating_count><![CDATA[51]]></rating_count>
+<link><![CDATA[https://addons.prestashop.com/en/products-homepage/26563-home-products-pro.html]]></link>
+<link_fr><![CDATA[https://addons.prestashop.com/fr/produits-page-accueil/26563-home-products-pro-listes-produit-personnalisables.html]]></link_fr>
+<link_it><![CDATA[https://addons.prestashop.com/it/prodotti-home/26563-home-products-pro-lista-prodotti-personalizzabili.html]]></link_it>
+<link_es><![CDATA[https://addons.prestashop.com/es/productos-pagina-inicio/26563-home-products-pro-lista-de-producto-personalizable.html]]></link_es>
+<contact_url><![CDATA[https://addons.prestashop.com/contact-form.php?id_product=26563]]></contact_url>
+<icon><![CDATA[https://medias2.prestastore.com/img/pico/26563.jpg]]></icon>
+<download><![CDATA[500]]></download>
+<badge><![CDATA[]]></badge>
+<module_id><![CDATA[ets_homecategories]]></module_id>
+<enabled><![CDATA[1]]></enabled>
+<must_have><![CDATA[1]]></must_have>
+<categories><![CDATA[2,11]]></categories>
+</item>
+<item>
+<id><![CDATA[46]]></id>
+<title><![CDATA[Order Manager: Edit, delete, export, quick view & more]]></title>
+<title_fr><![CDATA[Order Manager: Edit, delete, export, quick view & more]]></title_fr>
+<title_it><![CDATA[Order Manager: Edit, delete, export, quick view & more]]></title_it>
+<title_es><![CDATA[Order Manager: Edit, delete, export, quick view & more]]></title_es>
+<desc><![CDATA[Edit/delete/duplicate orders, export orders to CSV/Excel/XM, quick view order and customizable order listing page with additional data fields. Order Manager is an all-in-one Prestashop order management tool to manage orders easily and effectively.]]></desc>
+<desc_fr><![CDATA[Edit/delete/duplicate orders, export orders to CSV/Excel/XM, quick view order and customizable order listing page with additional data fields. Order Manager is an all-in-one Prestashop order management tool to manage orders easily and effectively.]]></desc_fr>
+<desc_it><![CDATA[Edit/delete/duplicate orders, export orders to CSV/Excel/XM, quick view order and customizable order listing page with additional data fields. Order Manager is an all-in-one Prestashop order management tool to manage orders easily and effectively.]]></desc_it>
+<desc_es><![CDATA[Edit/delete/duplicate orders, export orders to CSV/Excel/XM, quick view order and customizable order listing page with additional data fields. Order Manager is an all-in-one Prestashop order management tool to manage orders easily and effectively.]]></desc_es>
+<price><![CDATA[59]]></price>
+<rating><![CDATA[4.5]]></rating>
+<rating_count><![CDATA[51]]></rating_count>
+<link><![CDATA[https://addons.prestashop.com/en/order-management/28571-order-manager-edit-delete-export-quick-view-more.html]]></link>
+<link_fr><![CDATA[https://addons.prestashop.com/en/order-management/28571-order-manager-edit-delete-export-quick-view-more.html]]></link_fr>
+<link_it><![CDATA[https://addons.prestashop.com/en/order-management/28571-order-manager-edit-delete-export-quick-view-more.html]]></link_it>
+<link_es><![CDATA[https://addons.prestashop.com/en/order-management/28571-order-manager-edit-delete-export-quick-view-more.html]]></link_es>
+<contact_url><![CDATA[https://addons.prestashop.com/contact-form.php?id_product=28571]]></contact_url>
+<icon><![CDATA[https://medias2.prestastore.com/img/pico/28571.jpg]]></icon>
+<download><![CDATA[100]]></download>
+<badge><![CDATA[]]></badge>
+<module_id><![CDATA[ets_ordermanager]]></module_id>
+<enabled><![CDATA[1]]></enabled>
+<must_have><![CDATA[1]]></must_have>
+<categories><![CDATA[16]]></categories>
+</item>
+<item>
+<id><![CDATA[54]]></id>
+<title><![CDATA[Marketplace Builder]]></title>
+<title_fr><![CDATA[Social Locker]]></title_fr>
+<title_it><![CDATA[Social Locker]]></title_it>
+<title_es><![CDATA[Social Locker]]></title_es>
+<desc><![CDATA[Turn Prestashop into marketplace with simple set up steps, #1 PrestaShop Marketplace module (multi vendor) that allows sellers to list their products for sale and pay a percentage fee amount for each sale or a membership fee.]]></desc>
+<desc_fr><![CDATA[Transformez PrestaShop en marketplace en quelques étapes simples. Le module de marketplace PrestaShop multi-vendeurs #1 qui permet aux vendeurs de mettre leurs produits en vente en payant un pourcentage pour chaque vente ou des frais d’adhésion.]]></desc_fr>
+<desc_it><![CDATA[PrestaShop diventa un marketplace, configurazione semplice: il 1° Modulo Marketplace PrestaShop multi venditore che permette ai venditori di elencare i prodotti e di pagare un importo-tariffa percentuale per ogni vendita o una tariffa di membership.]]></desc_it>
+<desc_es><![CDATA[Convierte PrestaShop en un marketplace fácilmente, módulo Marketplace de PrestaShop (multivendedor) n. 1 que permite a los vendedores registrar sus productos para venderlos y pagar un porcentaje de comisión por cada venta o una cuota de inscripción.]]></desc_es>
+<price><![CDATA[149]]></price>
+<rating><![CDATA[5]]></rating>
+<rating_count><![CDATA[44]]></rating_count>
+<link><![CDATA[https://addons.prestashop.com/en/social-widgets/32443-marketplace-builder-multi-vendor.html]]></link>
+<link_fr><![CDATA[https://addons.prestashop.com/fr/widgets-reseaux-sociaux/32443-marketplace-builder-multi-vendor.html]]></link_fr>
+<link_it><![CDATA[https://addons.prestashop.com/it/social-widget/32443-marketplace-builder-multi-vendor.html]]></link_it>
+<link_es><![CDATA[https://addons.prestashop.com/es/widgets-redes-sociales/32443-marketplace-builder-multi-vendor.html]]></link_es>
+<contact_url><![CDATA[https://addons.prestashop.com/en/contact-us?id_product=32443]]></contact_url>
+<icon><![CDATA[https://medias2.prestastore.com/img/pico/32443.jpg]]></icon>
+<download><![CDATA[]]></download>
+<badge><![CDATA[]]></badge>
+<module_id><![CDATA[ets_marketplace]]></module_id>
+<enabled><![CDATA[1]]></enabled>
+<must_have><![CDATA[0]]></must_have>
+<categories><![CDATA[7]]></categories>
+</item>
+<item>
+<id><![CDATA[56]]></id>
+<title><![CDATA[Contact Form 7]]></title>
+<title_fr><![CDATA[Contact Form 7]]></title_fr>
+<title_it><![CDATA[Contact Form 7]]></title_it>
+<title_es><![CDATA[Contact Form 7]]></title_es>
+<desc><![CDATA[Contact Form 7 is the most famous Prestashop contact form module that can help you create any kinds of contact form for your website]]></desc>
+<desc_fr><![CDATA[Contact Form 7 est le module de formulaires de contact le plus puissant pour PrestaShop. Il vous permet de créer tous types de formulaires pour votre site&nbsp;web PrestaShop.]]></desc_fr>
+<desc_it><![CDATA[Contact Form 7 è il Creatore di moduli di contatto Prestashop che ti aiuta a creare qualsiasi tipo di modulo per il tuo sito web Prestashop]]></desc_it>
+<desc_es><![CDATA[Contact Form 7 es el módulo de formularios de contacto más potente de Prestashop que ayuda a crear todo tipo de formulario para tu página web de Prestashop]]></desc_es>
+<price><![CDATA[59]]></price>
+<rating><![CDATA[4.5]]></rating>
+<rating_count><![CDATA[38]]></rating_count>
+<link><![CDATA[https://addons.prestashop.com/en/contact-forms-surveys/39561-contact-form-7.html]]></link>
+<link_fr><![CDATA[https://addons.prestashop.com/fr/formulaires-contact-sondages/39561-contact-form-7.html]]></link_fr>
+<link_it><![CDATA[https://addons.prestashop.com/it/form-contatto-questionari/39561-contact-form-7.html]]></link_it>
+<link_es><![CDATA[https://addons.prestashop.com/es/formulario-contacto-sondeos/39561-contact-form-7.html]]></link_es>
+<contact_url><![CDATA[https://addons.prestashop.com/contact-form.php?id_product=39561]]></contact_url>
+<icon><![CDATA[https://medias2.prestastore.com/img/pico/39561.jpg]]></icon>
+<download><![CDATA[100]]></download>
+<badge><![CDATA[]]></badge>
+<module_id><![CDATA[ets_contactform7]]></module_id>
+<enabled><![CDATA[0]]></enabled>
+<must_have><![CDATA[0]]></must_have>
+<categories><![CDATA[4]]></categories>
+</item>
+<item>
+<id><![CDATA[62]]></id>
+<title><![CDATA[Contact Form Ultimate]]></title>
+<title_fr><![CDATA[Contact Form Ultimate &ndash; G&eacute;n&eacute;rateur de formulaires]]></title_fr>
+<title_it><![CDATA[Contact Form Ultimate &ndash; Creatore moduli &ldquo;Drag &amp; drop&rdquo;]]></title_it>
+<title_es><![CDATA[Contact Form Ultimate: &quot;Drag &amp; drop&quot; crea formularios]]></title_es>
+<desc><![CDATA[The best visual drag and drop contact form builder for Prestashop. Contact Form Ultimate can create any kind of contact form, totally easy to customize and manage. It's a feature-rich and secure Prestashop contact form module with a modern design]]></desc>
+<desc_fr><![CDATA[Le meilleur générateur de formulaires Drag & Drop pour PrestaShop. Contact Form Ultimate est un module personnalisable et facile à gérer qui permet de créer tous types de formulaires. Un générateur de formulaires sécurisé, fonctionnel et moderne]]></desc_fr>
+<desc_it><![CDATA[Il miglior creatore di moduli contatto con drag & drop visivo per Prestashop crea qualsiasi tipo di modulo di contatto, facile da personalizzare e gestire. È un modulo di contattoPrestashop ricco di funzioni e sicuro; design pulito e moderno.]]></desc_it>
+<desc_es><![CDATA[Arrastra, suelta y crea los mejores formularios para Prestahop de forma visual. Contact Form Ultimate crea todo tipo formularios y es muy fácil de personalizar y gestionar. Este módulo es seguro, con muchas funciones y un diseño limpio y moderno]]></desc_es>
+<price><![CDATA[49]]></price>
+<rating><![CDATA[5]]></rating>
+<rating_count><![CDATA[37]]></rating_count>
+<link><![CDATA[https://addons.prestashop.com/en/contact-forms-surveys/44785-contact-form-ultimate.html]]></link>
+<link_fr><![CDATA[https://addons.prestashop.com/fr/formulaires-contact-sondages/44785-contact-form-ultimate-generateur-de-formulaires.html]]></link_fr>
+<link_it><![CDATA[https://addons.prestashop.com/it/form-contatto-questionari/44785-contact-form-ultimate-creatore-moduli-drag-drop.html]]></link_it>
+<link_es><![CDATA[https://addons.prestashop.com/es/formulario-contacto-sondeos/44785-contact-form-ultimate-drag-drop-crea-formularios.html]]></link_es>
+<contact_url><![CDATA[https://addons.prestashop.com/contact-form.php?id_product=44785]]></contact_url>
+<icon><![CDATA[https://medias2.prestastore.com/img/pico/44785.jpg]]></icon>
+<download><![CDATA[]]></download>
+<badge><![CDATA[]]></badge>
+<module_id><![CDATA[ets_cfultimate]]></module_id>
+<enabled><![CDATA[1]]></enabled>
+<must_have><![CDATA[1]]></must_have>
+<categories><![CDATA[4]]></categories>
+</item>
+<item>
+<id><![CDATA[49]]></id>
+<title><![CDATA[Live Chat and Ticketing System]]></title>
+<title_fr><![CDATA[Chat en direct et syst&egrave;me de billetterie]]></title_fr>
+<title_it><![CDATA[Live chat e ticketing system]]></title_it>
+<title_es><![CDATA[Chat en vivo y sistema de tickets]]></title_es>
+<desc><![CDATA[Built-in live chat and ticketing system (helpdesk) module for Prestashop, self-managed, free forever! 2-in-1 complete customer support channel to communicate with online customers easily and boost sales.]]></desc>
+<desc_fr><![CDATA[Un module intégré de discussion instantanée avec système de tickets pour PrestaShop, autogéré et gratuit pour toujours ! Un canal de service client 2-en-1 complet pour communiquer facilement avec vos clients en ligne et booster vos ventes.]]></desc_fr>
+<desc_it><![CDATA[Modulo integrato di chat in tempo reale e ticketing (helpdesk) per Prestashop, auto-gestito, gratis per sempre! Canale di assistenza clienti completo 2-in-1 per comunicare in modo facile con i clienti on-line e potenziare al tempo stesso le vendite.]]></desc_it>
+<desc_es><![CDATA[Módulo (de asistencia técnica) de sistema de chat en directo y gestión de solicitudes para Prestashop, ¡autogestionado y gratis para siempre! Canal de atención al cliente completo 2 en 1 para comunicarte fácilmente online y aumentar tus ventas.]]></desc_es>
+<price><![CDATA[149]]></price>
+<rating><![CDATA[4.5]]></rating>
+<rating_count><![CDATA[33]]></rating_count>
+<link><![CDATA[https://addons.prestashop.com/en/support-online-chat/29785-live-chat-and-ticketing-system.html]]></link>
+<link_fr><![CDATA[https://addons.prestashop.com/fr/support-chat-online/29785-chat-en-direct-et-systeme-de-billetterie.html]]></link_fr>
+<link_it><![CDATA[https://addons.prestashop.com/it/supporto-chat-online/29785-live-chat-e-ticketing-system.html]]></link_it>
+<link_es><![CDATA[https://addons.prestashop.com/es/asistencia-chat-online/29785-chat-en-vivo-y-sistema-de-tickets.html]]></link_es>
+<contact_url><![CDATA[https://addons.prestashop.com/contact-form.php?id_product=29785]]></contact_url>
+<icon><![CDATA[https://medias2.prestastore.com/img/pico/29785.jpg]]></icon>
+<download><![CDATA[100]]></download>
+<badge><![CDATA[]]></badge>
+<module_id><![CDATA[ets_livechat]]></module_id>
+<enabled><![CDATA[0]]></enabled>
+<must_have><![CDATA[1]]></must_have>
+<categories><![CDATA[4]]></categories>
+</item>
+<item>
+<id><![CDATA[22]]></id>
+<title><![CDATA[Cross Selling Pro - Upsell - Shopping cart & all pages]]></title>
+<title_fr><![CDATA[Cross Selling Pro - Upsell - Shopping cart & all pages]]></title_fr>
+<title_it><![CDATA[Cross Selling Pro - Upsell - Shopping cart & all pages]]></title_it>
+<title_es><![CDATA[Cross Selling Pro - Upsell - Shopping cart & all pages]]></title_es>
+<desc><![CDATA[Automated product suggestions based on customer's interest to display on the shopping cart, product page, order page, etc. Cross-selling Pro (upsell) helps increase the visibility of all products and encourage customers to buy more!]]></desc>
+<desc_fr><![CDATA[Automated product suggestions based on customer's interest to display on the shopping cart, product page, order page, etc. Cross-selling Pro (upsell) helps increase the visibility of all products and encourage customers to buy more!]]></desc_fr>
+<desc_it><![CDATA[Automated product suggestions based on customer's interest to display on the shopping cart, product page, order page, etc. Cross-selling Pro (upsell) helps increase the visibility of all products and encourage customers to buy more!]]></desc_it>
+<desc_es><![CDATA[Automated product suggestions based on customer's interest to display on the shopping cart, product page, order page, etc. Cross-selling Pro (upsell) helps increase the visibility of all products and encourage customers to buy more!]]></desc_es>
+<price><![CDATA[49]]></price>
+<rating><![CDATA[4.5]]></rating>
+<rating_count><![CDATA[29]]></rating_count>
+<link><![CDATA[https://addons.prestashop.com/en/cross-selling-product-bundles/28596-cross-selling-pro-upsell-shopping-cart-all-pages.html]]></link>
+<link_fr><![CDATA[https://addons.prestashop.com/en/cross-selling-product-bundles/28596-cross-selling-pro-upsell-shopping-cart-all-pages.html]]></link_fr>
+<link_it><![CDATA[https://addons.prestashop.com/en/cross-selling-product-bundles/28596-cross-selling-pro-upsell-shopping-cart-all-pages.html]]></link_it>
+<link_es><![CDATA[https://addons.prestashop.com/en/cross-selling-product-bundles/28596-cross-selling-pro-upsell-shopping-cart-all-pages.html]]></link_es>
+<contact_url><![CDATA[https://addons.prestashop.com/contact-form.php?id_product=28596]]></contact_url>
+<icon><![CDATA[https://medias2.prestastore.com/img/pico/28596.jpg]]></icon>
+<download><![CDATA[]]></download>
+<badge><![CDATA[]]></badge>
+<module_id><![CDATA[ets_crosssell]]></module_id>
+<enabled><![CDATA[1]]></enabled>
+<must_have><![CDATA[1]]></must_have>
+<categories><![CDATA[15,11]]></categories>
+</item>
+<item>
+<id><![CDATA[70]]></id>
+<title><![CDATA[Payment With Fee: Paypal, Stripe, COD, bank wire, etc.]]></title>
+<title_fr><![CDATA[Payment With Fee: Paypal, Stripe, COD, bank wire, etc.]]></title_fr>
+<title_it><![CDATA[Payment With Fee: Paypal, Stripe, COD, bank wire, etc.]]></title_it>
+<title_es><![CDATA[Payment With Fee: Paypal, Stripe, COD, bank wire, etc.]]></title_es>
+<desc><![CDATA[Set extra fee (surcharge) for any Prestashop payment module such as cash on delivery (COD), bank wire, PayPal, Stripe, etc. And create unlimited number of custom payment method with/without fee easily.]]></desc>
+<desc_fr><![CDATA[Set extra fee (surcharge) for any Prestashop payment module such as cash on delivery (COD), bank wire, PayPal, Stripe, etc. And create unlimited number of custom payment method with/without fee easily.]]></desc_fr>
+<desc_it><![CDATA[Set extra fee (surcharge) for any Prestashop payment module such as cash on delivery (COD), bank wire, PayPal, Stripe, etc. And create unlimited number of custom payment method with/without fee easily.]]></desc_it>
+<desc_es><![CDATA[Set extra fee (surcharge) for any Prestashop payment module such as cash on delivery (COD), bank wire, PayPal, Stripe, etc. And create unlimited number of custom payment method with/without fee easily.]]></desc_es>
+<price><![CDATA[49]]></price>
+<rating><![CDATA[4.5]]></rating>
+<rating_count><![CDATA[27]]></rating_count>
+<link><![CDATA[https://addons.prestashop.com/en/other-payment-methods/28289-payment-with-fee-paypal-stripe-cod-bank-wire-etc.html]]></link>
+<link_fr><![CDATA[https://addons.prestashop.com/en/other-payment-methods/28289-payment-with-fee-paypal-stripe-cod-bank-wire-etc.html]]></link_fr>
+<link_it><![CDATA[https://addons.prestashop.com/en/other-payment-methods/28289-payment-with-fee-paypal-stripe-cod-bank-wire-etc.html]]></link_it>
+<link_es><![CDATA[https://addons.prestashop.com/en/other-payment-methods/28289-payment-with-fee-paypal-stripe-cod-bank-wire-etc.html]]></link_es>
+<contact_url><![CDATA[https://addons.prestashop.com/contact-form.php?id_product=28289]]></contact_url>
+<icon><![CDATA[https://medias2.prestastore.com/img/pico/28289.jpg]]></icon>
+<download><![CDATA[]]></download>
+<badge><![CDATA[]]></badge>
+<module_id><![CDATA[ets_payment_with_fee]]></module_id>
+<enabled><![CDATA[1]]></enabled>
+<must_have><![CDATA[0]]></must_have>
+<categories><![CDATA[17]]></categories>
+</item>
+<item>
+<id><![CDATA[15]]></id>
+<title><![CDATA[Page Cache Pro - Speed & SEO optimization]]></title>
+<title_fr><![CDATA[Page Cache Pro - Optimisation de la vitesse et SEO]]></title_fr>
+<title_it><![CDATA[Page Cache Pro - Ottimizzazione della velocit&agrave; e SEO]]></title_it>
+<title_es><![CDATA[Page Cache Pro &ndash; M&aacute;s velocidad y mejor SEO]]></title_es>
+<desc><![CDATA[Boost page speed, optimize server resource & improve SEO ranking with page cache and other caching technologies, HTML/CSS/JavaScript minification, GZIP compression and system analytics]]></desc>
+<desc_fr><![CDATA[Boostez vos pages, vos ressources et votre référencement naturel grâce au cache de page et à d’autres technologies: minification HTML/CSS/JavaScript, compression GZIP et analyse du système. Page Cache Pro rend votre site web plus rapide que jamais]]></desc_fr>
+<desc_it><![CDATA[Pagina più veloce, risorse server ottimizzate & ranking SEO migliore con la cache della pagina e tecnologie di caching, minimizzazione HTML/CSS/JavaScript, compressione GZIP e analitiche di sistema. Page Cache Pro: il tuo sito più veloce che mai!]]></desc_it>
+<desc_es><![CDATA[Aumenta la velocidad de la página, optimiza el recurso del servidor y el SEO con la caché de la página y más tecnologías, minificación de HTML, CSS y Javascript, compresión GZIP y análisis del sistema. Con PageCachePro tu web irá más rápido que nunca]]></desc_es>
+<price><![CDATA[99]]></price>
+<rating><![CDATA[4.5]]></rating>
+<rating_count><![CDATA[26]]></rating_count>
+<link><![CDATA[https://addons.prestashop.com/en/website-performance/25875-page-cache-pro-speed-seo-optimization.html]]></link>
+<link_fr><![CDATA[https://addons.prestashop.com/fr/performance-site/25875-page-cache-pro-optimisation-de-la-vitesse-et-seo.html]]></link_fr>
+<link_it><![CDATA[https://addons.prestashop.com/it/website-performance/25875-page-cache-pro-ottimizzazione-della-velocita-e-seo.html]]></link_it>
+<link_es><![CDATA[https://addons.prestashop.com/es/rendimiento-sitio-web/25875-page-cache-pro-mas-velocidad-y-mejor-seo.html]]></link_es>
+<contact_url><![CDATA[https://addons.prestashop.com/contact-form.php?id_product=25875]]></contact_url>
+<icon><![CDATA[https://medias2.prestastore.com/img/pico/25875.jpg]]></icon>
+<download><![CDATA[]]></download>
+<badge><![CDATA[]]></badge>
+<module_id><![CDATA[ets_pagecache]]></module_id>
+<enabled><![CDATA[0]]></enabled>
+<must_have><![CDATA[0]]></must_have>
+<categories><![CDATA[3,1]]></categories>
+</item>
+<item>
+<id><![CDATA[4]]></id>
+<title><![CDATA[Responsive newsletter popup]]></title>
+<title_fr><![CDATA[Responsive newsletter popup]]></title_fr>
+<title_it><![CDATA[Responsive newsletter popup]]></title_it>
+<title_es><![CDATA[Responsive newsletter popup]]></title_es>
+<desc><![CDATA[#1 Prestashop newsletter popup module which brings an attractive newsletter subscription form to your website. The module offers 9+ amazing and easy-customizable Prestashop newsletter popup templates to match all types of Prestashop websites. ]]></desc>
+<desc_fr><![CDATA[#1 Prestashop newsletter popup module which brings an attractive newsletter subscription form to your website. The module offers 9+ amazing and easy-customizable Prestashop newsletter popup templates to match all types of Prestashop websites. ]]></desc_fr>
+<desc_it><![CDATA[#1 Prestashop newsletter popup module which brings an attractive newsletter subscription form to your website. The module offers 9+ amazing and easy-customizable Prestashop newsletter popup templates to match all types of Prestashop websites. ]]></desc_it>
+<desc_es><![CDATA[#1 Prestashop newsletter popup module which brings an attractive newsletter subscription form to your website. The module offers 9+ amazing and easy-customizable Prestashop newsletter popup templates to match all types of Prestashop websites. ]]></desc_es>
+<price><![CDATA[49]]></price>
+<rating><![CDATA[4.5]]></rating>
+<rating_count><![CDATA[24]]></rating_count>
+<link><![CDATA[https://addons.prestashop.com/en/pop-up/25004-responsive-newsletter-popup.html]]></link>
+<link_fr><![CDATA[https://addons.prestashop.com/en/pop-up/25004-responsive-newsletter-popup.html]]></link_fr>
+<link_it><![CDATA[https://addons.prestashop.com/en/pop-up/25004-responsive-newsletter-popup.html]]></link_it>
+<link_es><![CDATA[https://addons.prestashop.com/en/pop-up/25004-responsive-newsletter-popup.html]]></link_es>
+<contact_url><![CDATA[https://addons.prestashop.com/contact-form.php?id_product=25004]]></contact_url>
+<icon><![CDATA[https://medias2.prestastore.com/img/pico/25004.jpg]]></icon>
+<download><![CDATA[100]]></download>
+<badge><![CDATA[]]></badge>
+<module_id><![CDATA[ybc_newsletter]]></module_id>
+<enabled><![CDATA[0]]></enabled>
+<must_have><![CDATA[0]]></must_have>
+<categories><![CDATA[18]]></categories>
+</item>
+<item>
+<id><![CDATA[10]]></id>
+<title><![CDATA[Search by category]]></title>
+<title_fr><![CDATA[Search by category]]></title_fr>
+<title_it><![CDATA[Search by category]]></title_it>
+<title_es><![CDATA[Search by category]]></title_es>
+<desc><![CDATA[Search by products, categories, CMS pages, manufacturers and more with Ajax technology. Smart searching, fast and relevant results, convenient and friendly with users.]]></desc>
+<desc_fr><![CDATA[Search by products, categories, CMS pages, manufacturers and more with Ajax technology. Smart searching, fast and relevant results, convenient and friendly with users.]]></desc_fr>
+<desc_it><![CDATA[Search by products, categories, CMS pages, manufacturers and more with Ajax technology. Smart searching, fast and relevant results, convenient and friendly with users.]]></desc_it>
+<desc_es><![CDATA[Search by products, categories, CMS pages, manufacturers and more with Ajax technology. Smart searching, fast and relevant results, convenient and friendly with users.]]></desc_es>
+<price><![CDATA[79]]></price>
+<rating><![CDATA[5]]></rating>
+<rating_count><![CDATA[21]]></rating_count>
+<link><![CDATA[https://addons.prestashop.com/en/search-filters/26218-search-by-category.html]]></link>
+<link_fr><![CDATA[https://addons.prestashop.com/en/search-filters/26218-search-by-category.html]]></link_fr>
+<link_it><![CDATA[https://addons.prestashop.com/en/search-filters/26218-search-by-category.html]]></link_it>
+<link_es><![CDATA[https://addons.prestashop.com/en/search-filters/26218-search-by-category.html]]></link_es>
+<contact_url><![CDATA[https://addons.prestashop.com/contact-form.php?id_product=26218]]></contact_url>
+<icon><![CDATA[https://medias2.prestastore.com/img/pico/26218.jpg]]></icon>
+<download><![CDATA[100]]></download>
+<badge><![CDATA[]]></badge>
+<module_id><![CDATA[ybc_blocksearch]]></module_id>
+<enabled><![CDATA[0]]></enabled>
+<must_have><![CDATA[0]]></must_have>
+<categories><![CDATA[]]></categories>
+</item>
+<item>
+<id><![CDATA[53]]></id>
+<title><![CDATA[WooCommerce to Prestashop Migrator]]></title>
+<title_fr><![CDATA[WooCommerce to Prestashop Migrator]]></title_fr>
+<title_it><![CDATA[WooCommerce to Prestashop Migrator]]></title_it>
+<title_es><![CDATA[WooCommerce to Prestashop Migrator]]></title_es>
+<desc><![CDATA[Migrate WooCommerce to Prestashop automatically in a few clicks! This is the best WooCommerce to Prestashop migration module that helps you migrate everything from Woocommerce/Wordpress to Prestashop]]></desc>
+<desc_fr><![CDATA[Migrate WooCommerce to Prestashop automatically in a few clicks! This is the best WooCommerce to Prestashop migration module that helps you migrate everything from Woocommerce/Wordpress to Prestashop]]></desc_fr>
+<desc_it><![CDATA[Migrate WooCommerce to Prestashop automatically in a few clicks! This is the best WooCommerce to Prestashop migration module that helps you migrate everything from Woocommerce/Wordpress to Prestashop]]></desc_it>
+<desc_es><![CDATA[Migrate WooCommerce to Prestashop automatically in a few clicks! This is the best WooCommerce to Prestashop migration module that helps you migrate everything from Woocommerce/Wordpress to Prestashop]]></desc_es>
+<price><![CDATA[79]]></price>
+<rating><![CDATA[4.5]]></rating>
+<rating_count><![CDATA[21]]></rating_count>
+<link><![CDATA[https://addons.prestashop.com/en/data-migration-backup/32181-woocommerce-to-prestashop-migrator.html]]></link>
+<link_fr><![CDATA[https://addons.prestashop.com/fr/migration-donnees-sauvegarde/32181-woocommerce-to-prestashop-migrator.html]]></link_fr>
+<link_it><![CDATA[https://addons.prestashop.com/it/data-migration-backup/32181-woocommerce-to-prestashop-migrator.html]]></link_it>
+<link_es><![CDATA[https://addons.prestashop.com/es/migracion-copias-de-seguridad/32181-woocommerce-to-prestashop-migrator.html]]></link_es>
+<contact_url><![CDATA[https://addons.prestashop.com/contact-form.php?id_product=32181]]></contact_url>
+<icon><![CDATA[https://medias2.prestastore.com/img/pico/32181.jpg]]></icon>
+<download><![CDATA[100]]></download>
+<badge><![CDATA[]]></badge>
+<module_id><![CDATA[ets_woo2pres]]></module_id>
+<enabled><![CDATA[0]]></enabled>
+<must_have><![CDATA[0]]></must_have>
+<categories><![CDATA[5]]></categories>
+</item>
+<item>
+<id><![CDATA[63]]></id>
+<title><![CDATA[Geolocation: Auto language, currency, tax & shipping]]></title>
+<title_fr><![CDATA[Geolocation: Auto language, currency, tax & shipping]]></title_fr>
+<title_it><![CDATA[Geolocation: Auto language, currency, tax & shipping]]></title_it>
+<title_es><![CDATA[Geolocation: Auto language, currency, tax & shipping]]></title_es>
+<desc><![CDATA[Auto detect and redirect customer to their language and currency, auto setup correct taxes and calculate shipping cost base on customer’s location.]]></desc>
+<desc_fr><![CDATA[Auto detect and redirect customer to their language and currency, auto setup correct taxes and calculate shipping cost base on customer’s location.]]></desc_fr>
+<desc_it><![CDATA[Auto detect and redirect customer to their language and currency, auto setup correct taxes and calculate shipping cost base on customer’s location.]]></desc_it>
+<desc_es><![CDATA[Auto detect and redirect customer to their language and currency, auto setup correct taxes and calculate shipping cost base on customer’s location.]]></desc_es>
+<price><![CDATA[89]]></price>
+<rating><![CDATA[5]]></rating>
+<rating_count><![CDATA[13]]></rating_count>
+<link><![CDATA[https://addons.prestashop.com/en/international-localization/45015-geolocation-auto-language-currency-tax-shipping.html]]></link>
+<link_fr><![CDATA[https://addons.prestashop.com/en/international-localization/45015-geolocation-auto-language-currency-tax-shipping.html]]></link_fr>
+<link_it><![CDATA[https://addons.prestashop.com/en/international-localization/45015-geolocation-auto-language-currency-tax-shipping.html]]></link_it>
+<link_es><![CDATA[https://addons.prestashop.com/en/international-localization/45015-geolocation-auto-language-currency-tax-shipping.html]]></link_es>
+<contact_url><![CDATA[https://addons.prestashop.com/contact-form.php?id_product=45015]]></contact_url>
+<icon><![CDATA[https://medias2.prestastore.com/img/pico/45015.jpg]]></icon>
+<download><![CDATA[]]></download>
+<badge><![CDATA[]]></badge>
+<module_id><![CDATA[ets_geolocation]]></module_id>
+<enabled><![CDATA[0]]></enabled>
+<must_have><![CDATA[0]]></must_have>
+<categories><![CDATA[19]]></categories>
+</item>
+<item>
+<id><![CDATA[20]]></id>
+<title><![CDATA[Lookbook – Product collection showcase]]></title>
+<title_fr><![CDATA[Lookbook – Product collection showcase]]></title_fr>
+<title_it><![CDATA[Lookbook – Product collection showcase]]></title_it>
+<title_es><![CDATA[Lookbook – Product collection showcase]]></title_es>
+<desc><![CDATA[Lookbook is professional & beautiful Prestashop shopping image gallery module! This module helps you showcase your collections in a creative way. Customers can see your collections on an image gallery and quickly purchase your products]]></desc>
+<desc_fr><![CDATA[Lookbook is professional & beautiful Prestashop shopping image gallery module! This module helps you showcase your collections in a creative way. Customers can see your collections on an image gallery and quickly purchase your products]]></desc_fr>
+<desc_it><![CDATA[Lookbook is professional & beautiful Prestashop shopping image gallery module! This module helps you showcase your collections in a creative way. Customers can see your collections on an image gallery and quickly purchase your products]]></desc_it>
+<desc_es><![CDATA[Lookbook is professional & beautiful Prestashop shopping image gallery module! This module helps you showcase your collections in a creative way. Customers can see your collections on an image gallery and quickly purchase your products]]></desc_es>
+<price><![CDATA[59]]></price>
+<rating><![CDATA[5]]></rating>
+<rating_count><![CDATA[12]]></rating_count>
+<link><![CDATA[https://addons.prestashop.com/en/visual-products/28536-lookbook-product-collection-showcase.html]]></link>
+<link_fr><![CDATA[https://addons.prestashop.com/en/visual-products/28536-lookbook-product-collection-showcase.html]]></link_fr>
+<link_it><![CDATA[https://addons.prestashop.com/en/visual-products/28536-lookbook-product-collection-showcase.html]]></link_it>
+<link_es><![CDATA[https://addons.prestashop.com/en/visual-products/28536-lookbook-product-collection-showcase.html]]></link_es>
+<contact_url><![CDATA[https://addons.prestashop.com/contact-form.php?id_product=28536]]></contact_url>
+<icon><![CDATA[https://medias2.prestastore.com/img/pico/28536.jpg]]></icon>
+<download><![CDATA[]]></download>
+<badge><![CDATA[]]></badge>
+<module_id><![CDATA[ets_lookbook]]></module_id>
+<enabled><![CDATA[0]]></enabled>
+<must_have><![CDATA[0]]></must_have>
+<categories><![CDATA[15,11]]></categories>
+</item>
+<item>
+<id><![CDATA[11]]></id>
+<title><![CDATA[Slider PRO]]></title>
+<title_fr><![CDATA[Slider PRO]]></title_fr>
+<title_it><![CDATA[Slider PRO]]></title_it>
+<title_es><![CDATA[Slider PRO]]></title_es>
+<desc><![CDATA[Amazing Prestashop slider module with more than 100+ pre-made 2D, 3D and HTML5/CSS3 animation effects, unlimited colors, 500+ fonts and more! Slider PRO is the best visual drag & drop slideshow builder module available on the marketplace.]]></desc>
+<desc_fr><![CDATA[Amazing Prestashop slider module with more than 100+ pre-made 2D, 3D and HTML5/CSS3 animation effects, unlimited colors, 500+ fonts and more! Slider PRO is the best visual drag & drop slideshow builder module available on the marketplace.]]></desc_fr>
+<desc_it><![CDATA[Amazing Prestashop slider module with more than 100+ pre-made 2D, 3D and HTML5/CSS3 animation effects, unlimited colors, 500+ fonts and more! Slider PRO is the best visual drag & drop slideshow builder module available on the marketplace.]]></desc_it>
+<desc_es><![CDATA[Amazing Prestashop slider module with more than 100+ pre-made 2D, 3D and HTML5/CSS3 animation effects, unlimited colors, 500+ fonts and more! Slider PRO is the best visual drag & drop slideshow builder module available on the marketplace.]]></desc_es>
+<price><![CDATA[59]]></price>
+<rating><![CDATA[4.5]]></rating>
+<rating_count><![CDATA[11]]></rating_count>
+<link><![CDATA[https://addons.prestashop.com/en/sliders-galleries/26873-slider-pro.html]]></link>
+<link_fr><![CDATA[https://addons.prestashop.com/en/sliders-galleries/26873-slider-pro.html]]></link_fr>
+<link_it><![CDATA[https://addons.prestashop.com/en/sliders-galleries/26873-slider-pro.html]]></link_it>
+<link_es><![CDATA[https://addons.prestashop.com/en/sliders-galleries/26873-slider-pro.html]]></link_es>
+<contact_url><![CDATA[https://addons.prestashop.com/contact-form.php?id_product=26873]]></contact_url>
+<icon><![CDATA[https://medias2.prestastore.com/img/pico/26873.jpg]]></icon>
+<download><![CDATA[100]]></download>
+<badge><![CDATA[]]></badge>
+<module_id><![CDATA[ets_multilayerslider]]></module_id>
+<enabled><![CDATA[0]]></enabled>
+<must_have><![CDATA[0]]></must_have>
+<categories><![CDATA[8]]></categories>
+</item>
+<item>
+<id><![CDATA[12]]></id>
+<title><![CDATA[Total Image Optimization Pro - Lossless compression]]></title>
+<title_fr><![CDATA[Total Image Optimization Pro - Lossless compression]]></title_fr>
+<title_it><![CDATA[Total Image Optimization Pro - Lossless compression]]></title_it>
+<title_es><![CDATA[Total Image Optimization Pro - Lossless compression]]></title_es>
+<desc><![CDATA[Lossless image compression tool to optimize every image on your online store, clean unused images and load images on demand with Lazy Load. Reduce image size, make your website faster, save hosting storage, save bandwidth and improve SEO ranking]]></desc>
+<desc_fr><![CDATA[Lossless image compression tool to optimize every image on your online store, clean unused images and load images on demand with Lazy Load. Reduce image size, make your website faster, save hosting storage, save bandwidth and improve SEO ranking]]></desc_fr>
+<desc_it><![CDATA[Lossless image compression tool to optimize every image on your online store, clean unused images and load images on demand with Lazy Load. Reduce image size, make your website faster, save hosting storage, save bandwidth and improve SEO ranking]]></desc_it>
+<desc_es><![CDATA[Lossless image compression tool to optimize every image on your online store, clean unused images and load images on demand with Lazy Load. Reduce image size, make your website faster, save hosting storage, save bandwidth and improve SEO ranking]]></desc_es>
+<price><![CDATA[49]]></price>
+<rating><![CDATA[4]]></rating>
+<rating_count><![CDATA[7]]></rating_count>
+<link><![CDATA[https://addons.prestashop.com/en/sliders-galleries/27020-total-image-optimization-pro.html]]></link>
+<link_fr><![CDATA[https://addons.prestashop.com/en/sliders-galleries/27020-total-image-optimization-pro.html]]></link_fr>
+<link_it><![CDATA[https://addons.prestashop.com/en/sliders-galleries/27020-total-image-optimization-pro.html]]></link_it>
+<link_es><![CDATA[https://addons.prestashop.com/en/sliders-galleries/27020-total-image-optimization-pro.html]]></link_es>
+<contact_url><![CDATA[https://addons.prestashop.com/contact-form.php?id_product=27020]]></contact_url>
+<icon><![CDATA[https://medias2.prestastore.com/img/pico/27020.jpg]]></icon>
+<download><![CDATA[]]></download>
+<badge><![CDATA[]]></badge>
+<module_id><![CDATA[ets_imagecompressor]]></module_id>
+<enabled><![CDATA[0]]></enabled>
+<must_have><![CDATA[0]]></must_have>
+<categories><![CDATA[3,1]]></categories>
+</item>
+<item>
+<id><![CDATA[48]]></id>
+<title><![CDATA[FAQ]]></title>
+<title_fr><![CDATA[FAQ]]></title_fr>
+<title_it><![CDATA[FAQ]]></title_it>
+<title_es><![CDATA[FAQ]]></title_es>
+<desc><![CDATA[Create FAQ page and FAQ tab on product page – 2 IN 1 Prestashop FAQ module! Receive and answer questions from your customers with “Ask a question” form. FAQ PRO is professional Frequently Asked Questions module, easy to install and simple to use.]]></desc>
+<desc_fr><![CDATA[Create FAQ page and FAQ tab on product page – 2 IN 1 Prestashop FAQ module! Receive and answer questions from your customers with “Ask a question” form. FAQ PRO is professional Frequently Asked Questions module, easy to install and simple to use.]]></desc_fr>
+<desc_it><![CDATA[Create FAQ page and FAQ tab on product page – 2 IN 1 Prestashop FAQ module! Receive and answer questions from your customers with “Ask a question” form. FAQ PRO is professional Frequently Asked Questions module, easy to install and simple to use.]]></desc_it>
+<desc_es><![CDATA[Create FAQ page and FAQ tab on product page – 2 IN 1 Prestashop FAQ module! Receive and answer questions from your customers with “Ask a question” form. FAQ PRO is professional Frequently Asked Questions module, easy to install and simple to use.]]></desc_es>
+<price><![CDATA[49]]></price>
+<rating><![CDATA[4.5]]></rating>
+<rating_count><![CDATA[4]]></rating_count>
+<link><![CDATA[https://addons.prestashop.com/en/faq-frequently-asked-questions/28882-faq.html]]></link>
+<link_fr><![CDATA[https://addons.prestashop.com/en/faq-frequently-asked-questions/28882-faq.html]]></link_fr>
+<link_it><![CDATA[https://addons.prestashop.com/en/faq-frequently-asked-questions/28882-faq.html]]></link_it>
+<link_es><![CDATA[https://addons.prestashop.com/en/faq-frequently-asked-questions/28882-faq.html]]></link_es>
+<contact_url><![CDATA[https://addons.prestashop.com/contact-form.php?id_product=28882]]></contact_url>
+<icon><![CDATA[https://medias2.prestastore.com/img/pico/28882.jpg]]></icon>
+<download><![CDATA[]]></download>
+<badge><![CDATA[]]></badge>
+<module_id><![CDATA[ets_faq]]></module_id>
+<enabled><![CDATA[0]]></enabled>
+<must_have><![CDATA[0]]></must_have>
+<categories><![CDATA[]]></categories>
+</item>
+<item>
+<id><![CDATA[59]]></id>
+<title><![CDATA[GDPR Compliance - EU Cookies Law Banner]]></title>
+<title_fr><![CDATA[GDPR]]></title_fr>
+<title_it><![CDATA[GDPR]]></title_it>
+<title_es><![CDATA[GDPR]]></title_es>
+<desc><![CDATA[The most complete Prestashop GDPR module that makes your website completely compliant with General Data Protection Regulation (GDPR) by giving customer rights to know, edit, be notified (when have changes) or erase their personal data on your website]]></desc>
+<desc_fr><![CDATA[The most complete Prestashop GDPR module that makes your website completely compliant with General Data Protection Regulation (GDPR) by giving customer rights to know, edit, be notified (when have changes) or erase their personal data on your website]]></desc_fr>
+<desc_it><![CDATA[The most complete Prestashop GDPR module that makes your website completely compliant with General Data Protection Regulation (GDPR) by giving customer rights to know, edit, be notified (when have changes) or erase their personal data on your website]]></desc_it>
+<desc_es><![CDATA[The most complete Prestashop GDPR module that makes your website completely compliant with General Data Protection Regulation (GDPR) by giving customer rights to know, edit, be notified (when have changes) or erase their personal data on your website]]></desc_es>
+<price><![CDATA[59]]></price>
+<rating><![CDATA[4.5]]></rating>
+<rating_count><![CDATA[4]]></rating_count>
+<link><![CDATA[https://addons.prestashop.com/en/legal/40270-gdpr-compliance-eu-cookies-law-banner.html]]></link>
+<link_fr><![CDATA[https://addons.prestashop.com/fr/legislation/40270-gdpr.html]]></link_fr>
+<link_it><![CDATA[https://addons.prestashop.com/it/legale-legge-europea/40270-gdpr.html]]></link_it>
+<link_es><![CDATA[https://addons.prestashop.com/es/marco-legal-ley-europea/40270-gdpr.html]]></link_es>
+<contact_url><![CDATA[https://addons.prestashop.com/contact-form.php?id_product=40270]]></contact_url>
+<icon><![CDATA[https://medias2.prestastore.com/img/pico/40270.jpg]]></icon>
+<download><![CDATA[]]></download>
+<badge><![CDATA[]]></badge>
+<module_id><![CDATA[ets_gdpr]]></module_id>
+<enabled><![CDATA[1]]></enabled>
+<must_have><![CDATA[0]]></must_have>
+<categories><![CDATA[14]]></categories>
+</item>
+<item>
+<id><![CDATA[16]]></id>
+<title><![CDATA[Presta MailChimp]]></title>
+<title_fr><![CDATA[Presta MailChimp]]></title_fr>
+<title_it><![CDATA[Presta MailChimp]]></title_it>
+<title_es><![CDATA[Presta MailChimp]]></title_es>
+<desc><![CDATA[Integrate Prestashop with MailChimp automatically, the most stable Prestashop MailChimp module 2017, easily synchronize Prestashop with MailChimp, the best MailChimp SYNC solution for Prestashop]]></desc>
+<desc_fr><![CDATA[Integrate Prestashop with MailChimp automatically, the most stable Prestashop MailChimp module 2017, easily synchronize Prestashop with MailChimp, the best MailChimp SYNC solution for Prestashop]]></desc_fr>
+<desc_it><![CDATA[Integrate Prestashop with MailChimp automatically, the most stable Prestashop MailChimp module 2017, easily synchronize Prestashop with MailChimp, the best MailChimp SYNC solution for Prestashop]]></desc_it>
+<desc_es><![CDATA[Integrate Prestashop with MailChimp automatically, the most stable Prestashop MailChimp module 2017, easily synchronize Prestashop with MailChimp, the best MailChimp SYNC solution for Prestashop]]></desc_es>
+<price><![CDATA[89]]></price>
+<rating><![CDATA[5]]></rating>
+<rating_count><![CDATA[2]]></rating_count>
+<link><![CDATA[https://addons.prestashop.com/en/newsletter-sms/27040-presta-mailchimp.html]]></link>
+<link_fr><![CDATA[https://addons.prestashop.com/en/newsletter-sms/27040-presta-mailchimp.html]]></link_fr>
+<link_it><![CDATA[https://addons.prestashop.com/en/newsletter-sms/27040-presta-mailchimp.html]]></link_it>
+<link_es><![CDATA[https://addons.prestashop.com/en/newsletter-sms/27040-presta-mailchimp.html]]></link_es>
+<contact_url><![CDATA[https://addons.prestashop.com/contact-form.php?id_product=27040]]></contact_url>
+<icon><![CDATA[https://medias2.prestastore.com/img/pico/27040.jpg]]></icon>
+<download><![CDATA[]]></download>
+<badge><![CDATA[]]></badge>
+<module_id><![CDATA[ets_mailchimpsync]]></module_id>
+<enabled><![CDATA[0]]></enabled>
+<must_have><![CDATA[0]]></must_have>
+<categories><![CDATA[18]]></categories>
+</item>
+</modules>
+<categories>
+<item>
+<id><![CDATA[2]]></id>
+<title><![CDATA[Navigation & Menu]]></title>
+<title_fr><![CDATA[Navigation &  Menu]]></title_fr>
+<title_it><![CDATA[Navigazione & Menu]]></title_it>
+<title_es><![CDATA[Navegación y  Menú]]></title_es>
+</item>
+<item>
+<id><![CDATA[3]]></id>
+<title><![CDATA[Speed & performance]]></title>
+<title_fr><![CDATA[ Performance & la vitesse]]></title_fr>
+<title_it><![CDATA[Prestazioni & velocità]]></title_it>
+<title_es><![CDATA[Rendimiento y velocidad]]></title_es>
+</item>
+<item>
+<id><![CDATA[5]]></id>
+<title><![CDATA[Upgrade, migration & backup]]></title>
+<title_fr><![CDATA[Mettez à niveau, Migration de Données & Sauvegarde]]></title_fr>
+<title_it><![CDATA[Aggiornare, Migrazione e Backup]]></title_it>
+<title_es><![CDATA[Actualizar, Migración y Copias de seguridad]]></title_es>
+</item>
+<item>
+<id><![CDATA[12]]></id>
+<title><![CDATA[ Blog, Forum & News]]></title>
+<title_fr><![CDATA[Blog, Forum & Actualités]]></title_fr>
+<title_it><![CDATA[Blog, Forum & News]]></title_it>
+<title_es><![CDATA[Blog, Foro y Noticias]]></title_es>
+</item>
+<item>
+<id><![CDATA[1]]></id>
+<title><![CDATA[SEO & Traffic]]></title>
+<title_fr><![CDATA[SEO & Traffic]]></title_fr>
+<title_it><![CDATA[SEO & Traffico ]]></title_it>
+<title_es><![CDATA[SEO & Tráfico ]]></title_es>
+</item>
+<item>
+<id><![CDATA[9]]></id>
+<title><![CDATA[ Referral, Affiliation & Loyalty Programs]]></title>
+<title_fr><![CDATA[Programmes fidélité, de parrainage et d’associés]]></title_fr>
+<title_it><![CDATA[Marketing di fidelizzazione, sponsorizzazione e affiliazione]]></title_it>
+<title_es><![CDATA[Fidelización, referidos y marketing de afiliados]]></title_es>
+</item>
+<item>
+<id><![CDATA[4]]></id>
+<title><![CDATA[Contact form & Online chat - Helpdesk]]></title>
+<title_fr><![CDATA[Formulaires de Contact & Chat Online]]></title_fr>
+<title_it><![CDATA[Form di contatto & Chat online]]></title_it>
+<title_es><![CDATA[Formulario de contacto y Chat online]]></title_es>
+</item>
+<item>
+<id><![CDATA[6]]></id>
+<title><![CDATA[Security]]></title>
+<title_fr><![CDATA[Sécurité]]></title_fr>
+<title_it><![CDATA[Sicurezza]]></title_it>
+<title_es><![CDATA[Seguridad]]></title_es>
+</item>
+<item>
+<id><![CDATA[7]]></id>
+<title><![CDATA[Social networks]]></title>
+<title_fr><![CDATA[Réseaux sociaux]]></title_fr>
+<title_it><![CDATA[Social network]]></title_it>
+<title_es><![CDATA[Redes sociales]]></title_es>
+</item>
+<item>
+<id><![CDATA[8]]></id>
+<title><![CDATA[ Sliders & Galleries]]></title>
+<title_fr><![CDATA[Sliders & Galeries]]></title_fr>
+<title_it><![CDATA[Slider & Gallerie]]></title_it>
+<title_es><![CDATA[Sliders y Galerías de imágenes]]></title_es>
+</item>
+<item>
+<id><![CDATA[10]]></id>
+<title><![CDATA[ Remarketing & Shopping Cart Abandonment]]></title>
+<title_fr><![CDATA[Remarketing & Paniers Abandonnés]]></title_fr>
+<title_it><![CDATA[Remarketing & Carrelli abbandonati]]></title_it>
+<title_es><![CDATA[Remarketing y Carritos abandonados]]></title_es>
+</item>
+<item>
+<id><![CDATA[11]]></id>
+<title><![CDATA[Products on Homepage]]></title>
+<title_fr><![CDATA[Produits en page d'accueil]]></title_fr>
+<title_it><![CDATA[Prodotti su Home]]></title_it>
+<title_es><![CDATA[Productos en la página de inicio]]></title_es>
+</item>
+<item>
+<id><![CDATA[13]]></id>
+<title><![CDATA[ Social Login & Connect]]></title>
+<title_fr><![CDATA[Boutons Login & Connect]]></title_fr>
+<title_it><![CDATA[Login/Connessione]]></title_it>
+<title_es><![CDATA[Botones de inicio de Sesión/Conexión]]></title_es>
+</item>
+<item>
+<id><![CDATA[14]]></id>
+<title><![CDATA[Legal]]></title>
+<title_fr><![CDATA[Législation]]></title_fr>
+<title_it><![CDATA[Legale]]></title_it>
+<title_es><![CDATA[Marco Legal]]></title_es>
+</item>
+<item>
+<id><![CDATA[15]]></id>
+<title><![CDATA[Cross-selling]]></title>
+<title_fr><![CDATA[Ventes croisées]]></title_fr>
+<title_it><![CDATA[Cross-selling]]></title_it>
+<title_es><![CDATA[Ventas cruzadas]]></title_es>
+</item>
+<item>
+<id><![CDATA[16]]></id>
+<title><![CDATA[Order Management]]></title>
+<title_fr><![CDATA[Gestion des Commandes]]></title_fr>
+<title_it><![CDATA[Gestione Ordini]]></title_it>
+<title_es><![CDATA[Gestión de Pedidos]]></title_es>
+</item>
+<item>
+<id><![CDATA[17]]></id>
+<title><![CDATA[Payment]]></title>
+<title_fr><![CDATA[Paiement]]></title_fr>
+<title_it><![CDATA[Pagamento]]></title_it>
+<title_es><![CDATA[Métodos de pago]]></title_es>
+</item>
+<item>
+<id><![CDATA[18]]></id>
+<title><![CDATA[Newsletter]]></title>
+<title_fr><![CDATA[]]></title_fr>
+<title_it><![CDATA[]]></title_it>
+<title_es><![CDATA[]]></title_es>
+</item>
+<item>
+<id><![CDATA[19]]></id>
+<title><![CDATA[International & Localization]]></title>
+<title_fr><![CDATA[International et Localisation]]></title_fr>
+<title_it><![CDATA[Internazionale e Localizzazione]]></title_it>
+<title_es><![CDATA[Internacionalización y Localización]]></title_es>
+</item>
+</categories>
+<intro_en><![CDATA[ETS-Soft is a company of young, passionate developers who have 8 years of experience working on Prestashop projects. We are one of Prestashop's best module & theme providers, always offer the highest quality modules and themes to our dear customers with dedicated 24/7 customer support service﻿.]]></intro_en>
+</data>

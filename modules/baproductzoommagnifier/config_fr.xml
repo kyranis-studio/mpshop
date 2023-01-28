@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<module>
+    <name>baproductzoommagnifier</name>
+    <displayName><![CDATA[Prestashop Best Zoom Magnifier Module - BAZoom Magnifier]]></displayName>
+    <version><![CDATA[1.0.16]]></version>
+    <description><![CDATA[Allows you to add a zoom effect to all your product images on all pages, blocks]]></description>
+    <author><![CDATA[buy-addons]]></author>
+    <tab><![CDATA[shipping_logistics]]></tab>
+    <is_configurable>1</is_configurable>
+    <need_instance>0</need_instance>
+	<limited_countries></limited_countries>
+</module>
